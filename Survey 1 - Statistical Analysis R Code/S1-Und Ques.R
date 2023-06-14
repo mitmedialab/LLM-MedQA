@@ -12,7 +12,7 @@ pacman::p_load(
 
 
 ##########################################################################################
-# Understanding Question
+# Understanding Question - Survey 1
 
 # read in data and check
 dat_und_q <- read.csv("/Users/shruthishekar/Desktop/Survey 1 - Und Q.csv")
