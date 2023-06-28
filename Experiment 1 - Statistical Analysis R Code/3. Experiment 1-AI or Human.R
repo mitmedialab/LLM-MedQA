@@ -1,5 +1,4 @@
-
-# install "pacman" package (only need to do this once)
+# install "pacman" package
 install.packages("pacman")
 
 # load external packages into R session
@@ -11,10 +10,13 @@ pacman::p_load(
 )
 
 ##########################################################################################
-# AI or Human
+# STATISTICAL ANALYSES - Linear Mixed Effects Model
+# Experiment 1
+# Prompt: "Do you think this response was given by a doctor or AI text generator?"
 
 # read in data and check
-dat_AI_or_Human <- read.csv("/Users/shruthishekar/Desktop/Survey 2 - AI or Human.csv")
+dat_AI_or_Human <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 1 - 2.csv")
+
 str(dat_AI_or_Human)
 head(dat_AI_or_Human)
 
@@ -31,5 +33,4 @@ contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
-icc(mod) # the "adjusted ICC" is what you want
-
+icc(mod)

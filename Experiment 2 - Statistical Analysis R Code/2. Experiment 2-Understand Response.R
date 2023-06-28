@@ -1,5 +1,4 @@
-
-# install "pacman" package (only need to do this once)
+# install "pacman" package
 install.packages("pacman")
 
 # load external packages into R session
@@ -10,17 +9,22 @@ pacman::p_load(
   performance  # ICC
 )
 
+
 ##########################################################################################
-# Und Ques
+# STATISTICAL ANALYSES - Linear Mixed Effects Model
+# Experiment 2
+# Prompt: "I understand the response to this health question."
 
 # read in data and check
-dat_und_q_1 <- read.csv("/Users/shruthishekar/Desktop/Survey 2 - Und Q.csv")
-str(dat_und_q_1)
-head(dat_und_q_1)
+dat_und_r <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 2.csv")
+dat_und_r = dat_und_r[dat_und_r$Question.Type == "Und_R", ] #Limit dataset to responses for this evaluation question type
+
+str(dat_und_r)
+head(dat_und_r)
 
 # estimate models
-mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_q_1)
-mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_q_1)
+mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_r)
+mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_r)
 
 # LRT (omnibus test)
 anova(mod, mod_null)
@@ -31,5 +35,5 @@ contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
-icc(mod) # the "adjusted ICC" is what you want
+icc(mod)
 

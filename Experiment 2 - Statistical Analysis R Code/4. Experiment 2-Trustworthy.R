@@ -1,5 +1,4 @@
-
-# install "pacman" package (only need to do this once)
+# install "pacman" package
 install.packages("pacman")
 
 # load external packages into R session
@@ -10,12 +9,15 @@ pacman::p_load(
   performance  # ICC
 )
 
-
 ##########################################################################################
-# Trust
+# STATISTICAL ANALYSES - Linear Mixed Effects Model
+# Experiment 2
+# Prompt: "The given response is trustworthy."
 
 # read in data and check
-dat_trust <- read.csv("/Users/shruthishekar/Desktop/Survey 1 - Trust.csv")
+dat_trust <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 2.csv")
+dat_trust = dat_trust[dat_trust$Question.Type == "Trust", ] #Limit dataset to responses for this evaluation question type
+
 str(dat_trust)
 head(dat_trust)
 
@@ -32,5 +34,4 @@ contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
-icc(mod) # the "adjusted ICC" is what you want
-
+icc(mod)

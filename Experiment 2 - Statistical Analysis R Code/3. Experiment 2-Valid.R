@@ -1,5 +1,4 @@
-
-# install "pacman" package (only need to do this once)
+# install "pacman" package 
 install.packages("pacman")
 
 # load external packages into R session
@@ -10,18 +9,21 @@ pacman::p_load(
   performance  # ICC
 )
 
-
 ##########################################################################################
-# Understanding Response
+# STATISTICAL ANALYSES - Linear Mixed Effects Model
+# Experiment 2
+# Prompt: "Is this a valid response?"
 
 # read in data and check
-dat_und_r <- read.csv("/Users/shruthishekar/Desktop/Survey 1 - Und R.csv")
-str(dat_und_r)
-head(dat_und_r)
+dat_valid <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 2.csv")
+dat_valid = dat_valid[dat_valid$Question.Type == "Valid", ] #Limit dataset to responses for this evaluation question type
+
+str(dat_valid)
+head(dat_valid)
 
 # estimate models
-mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_r)
-mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_und_r)
+mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_valid)
+mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_valid)
 
 # LRT (omnibus test)
 anova(mod, mod_null)
@@ -32,5 +34,5 @@ contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
-icc(mod) # the "adjusted ICC" is what you want
+icc(mod)
 

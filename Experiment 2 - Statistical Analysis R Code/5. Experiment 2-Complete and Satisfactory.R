@@ -1,5 +1,4 @@
-
-# install "pacman" package (only need to do this once)
+# install "pacman" package
 install.packages("pacman")
 
 # load external packages into R session
@@ -11,16 +10,20 @@ pacman::p_load(
 )
 
 ##########################################################################################
-# Info
+# STATISTICAL ANALYSES - Linear Mixed Effects Model
+# Experiment 2
+# Prompt: "The given response is complete and satisfactory."
 
 # read in data and check
-dat_info <- read.csv("/Users/shruthishekar/Desktop/Survey 1 - Info.csv")
-str(dat_info)
-head(dat_info)
+dat_satis <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 2.csv")
+dat_satis = dat_satis[dat_satis$Question.Type == "Satis", ] #Limit dataset to responses for this evaluation question type
+
+str(dat_satis)
+head(dat_satis)
 
 # estimate models
-mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_info)
-mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_info)
+mod_null <- lmer(Response.Scores ~ 1 + (1 | Participant.ID) + (1 | Question.ID), data = dat_satis)
+mod <- lmer(Response.Scores ~ 1 + Response.Source + (1 | Participant.ID) + (1 | Question.ID), data = dat_satis)
 
 # LRT (omnibus test)
 anova(mod, mod_null)
@@ -31,5 +34,4 @@ contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
-icc(mod) # the "adjusted ICC" is what you want
-
+icc(mod)
