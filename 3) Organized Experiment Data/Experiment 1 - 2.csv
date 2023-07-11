@@ -1,0 +1,981 @@
+,Question Type,Incorrect/Correct,Response Scores,Confidence,Response Source,Participant ID,Question ID
+0,AI_or_Human,Correct,1,4.9,Doctor,62e04413fd91f451e42d558d,1_D_Conditions_6
+1,AI_or_Human,Incorrect,0,3.5,Doctor,61168a8a8f1af03dd4032af4,1_D_Conditions_6
+2,AI_or_Human,Incorrect,0,4.1,Doctor,5d85150104ad7f00180935d1,1_D_Conditions_6
+3,AI_or_Human,Incorrect,0,3.4,Doctor,6310f7cc10a0cd8f6156091f,1_D_Conditions_6
+4,AI_or_Human,Incorrect,0,4.1,Doctor,5ea9d795dec14d13eb7af3d9,1_D_Conditions_6
+5,AI_or_Human,Incorrect,0,3.9,Doctor,62d353684494ab8119aa42d8,1_D_Conditions_6
+6,AI_or_Human,Incorrect,0,3.0,Doctor,54e32a60fdf99b3eae9de85b,1_D_Conditions_6
+7,AI_or_Human,Incorrect,0,4.3,Doctor,5f7e4fbc36d39211c80599fe,1_D_Conditions_6
+8,AI_or_Human,Correct,1,4.1,Doctor,61158ba946af0dc7c3a6c5fd,1_D_Conditions_6
+9,AI_or_Human,Correct,1,3.0,Doctor,61534251f98a9e4929d81c2b,1_D_Conditions_6
+10,AI_or_Human,Incorrect,0,3.0,Doctor,6234bc51939438b05a4adfb9,1_D_Conditions_6
+11,AI_or_Human,Correct,1,3.5,Doctor,5c492c7167b61b000190bfe8,1_D_Conditions_6
+12,AI_or_Human,Incorrect,0,4.5,Doctor,5b197b8088ee7400012ae154,1_D_Conditions_6
+13,AI_or_Human,Incorrect,0,3.3,Doctor,63cd7b78fff71624a85b294f,1_D_Conditions_6
+14,AI_or_Human,Incorrect,0,4.7,Doctor,5d4345e9be616d0001f786cd,1_D_Conditions_6
+15,AI_or_Human,Correct,1,2.3,Doctor,61452f580953ba50efed1036,1_D_Diagnostics_6
+16,AI_or_Human,Incorrect,0,3.0,Doctor,5bd6656a669ee1000145304a,1_D_Diagnostics_6
+17,AI_or_Human,Incorrect,0,4.5,Doctor,5cc22481f6ef910019e5120f,1_D_Diagnostics_6
+18,AI_or_Human,Correct,1,4.5,Doctor,5fb08ec5ddc19949a58f5a4f,1_D_Diagnostics_6
+19,AI_or_Human,Incorrect,0,5.0,Doctor,54e32a60fdf99b3eae9de85b,1_D_Diagnostics_6
+20,AI_or_Human,Incorrect,0,5.0,Doctor,5d5606cd4171ec00182e2b15,1_D_Diagnostics_6
+21,AI_or_Human,Correct,1,2.2,Doctor,55a9f6a1fdf99b2d81b5295f,1_D_Diagnostics_6
+22,AI_or_Human,Incorrect,0,4.0,Doctor,63d5528c99d44c28a0f4040e,1_D_Diagnostics_6
+23,AI_or_Human,Correct,1,5.0,Doctor,57d6b1718e00270001b430cc,1_D_Diagnostics_6
+24,AI_or_Human,Correct,1,4.1,Doctor,5bd6656a669ee1000145304a,1_D_Medications_6
+25,AI_or_Human,Correct,1,3.9,Doctor,5e8a3f722cea2006283e0e45,1_D_Medications_6
+26,AI_or_Human,Correct,1,5.0,Doctor,5d85150104ad7f00180935d1,1_D_Medications_6
+27,AI_or_Human,Correct,1,5.0,Doctor,5ef32f0aeb0c9103d56a8558,1_D_Medications_6
+28,AI_or_Human,Correct,1,3.5,Doctor,5ef00061e45c1f1988455df5,1_D_Medications_6
+29,AI_or_Human,Correct,1,3.0,Doctor,61097e0464a4a922602d495b,1_D_Medications_6
+30,AI_or_Human,Correct,1,4.2,Doctor,61158ba946af0dc7c3a6c5fd,1_D_Medications_6
+31,AI_or_Human,Correct,1,4.1,Doctor,5b0ce8bb9663ee00014597fb,1_D_Medications_6
+32,AI_or_Human,Correct,1,4.9,Doctor,57d6b1718e00270001b430cc,1_D_Medications_6
+33,AI_or_Human,Incorrect,0,5.0,Doctor,6150b569f783a47ea40a79a4,1_D_Medications_6
+34,AI_or_Human,Incorrect,0,4.4,Doctor,57b560e4a18afd00013e0579,1_D_Preventative_6
+35,AI_or_Human,Incorrect,0,2.3,Doctor,5bdbf2d92562330001b8d056,1_D_Preventative_6
+36,AI_or_Human,Incorrect,0,3.4,Doctor,5e8a3f722cea2006283e0e45,1_D_Preventative_6
+37,AI_or_Human,Incorrect,0,4.1,Doctor,6132cc931d18eb3ce734accf,1_D_Preventative_6
+38,AI_or_Human,Correct,1,3.0,Doctor,60fcdd362d1a5e0d012b91f0,1_D_Preventative_6
+39,AI_or_Human,Incorrect,0,2.5,Doctor,61097e0464a4a922602d495b,1_D_Preventative_6
+40,AI_or_Human,Incorrect,0,4.2,Doctor,614ca018863895a0b6724719,1_D_Preventative_6
+41,AI_or_Human,Correct,1,4.1,Doctor,63d7bf544bb172f5766a3791,1_D_Preventative_6
+42,AI_or_Human,Correct,1,4.2,Doctor,60b7e08463067cb8330e0d8d,1_D_Procedures_6
+43,AI_or_Human,Correct,1,3.7,Doctor,60fd703323341ff48a496d12,1_D_Procedures_6
+44,AI_or_Human,Correct,1,4.1,Doctor,614e7595b135a4c4656cf557,1_D_Procedures_6
+45,AI_or_Human,Correct,1,4.8,Doctor,57b560e4a18afd00013e0579,1_D_Procedures_6
+46,AI_or_Human,Incorrect,0,2.5,Doctor,61141ef53317a3f90b098b66,1_D_Procedures_6
+47,AI_or_Human,Correct,1,3.0,Doctor,631278690a39c26a19d394a0,1_D_Procedures_6
+48,AI_or_Human,Incorrect,0,4.2,Doctor,5f7e4fbc36d39211c80599fe,1_D_Procedures_6
+49,AI_or_Human,Correct,1,3.4,Doctor,61097e0464a4a922602d495b,1_D_Procedures_6
+50,AI_or_Human,Correct,1,3.8,Doctor,5b5a822e1ad8270001c4f28d,1_D_Procedures_6
+51,AI_or_Human,Incorrect,0,4.0,Doctor,63d5528c99d44c28a0f4040e,1_D_Procedures_6
+52,AI_or_Human,Correct,1,2.0,Doctor,60fedf00b3d67381229eb456,1_D_Procedures_6
+53,AI_or_Human,Correct,1,4.1,Doctor,5c40134b1580e900012320ab,1_D_Procedures_6
+54,AI_or_Human,Correct,1,4.5,Doctor,61003424913c5bc34653feb1,1_D_Procedures_6
+55,AI_or_Human,Incorrect,0,4.4,Doctor,60debc4045d5ce331ba7647c,1_D_Recovery_6
+56,AI_or_Human,Correct,1,4.0,Doctor,60fd703323341ff48a496d12,1_D_Recovery_6
+57,AI_or_Human,Correct,1,4.2,Doctor,61141ef53317a3f90b098b66,1_D_Recovery_6
+58,AI_or_Human,Incorrect,0,4.1,Doctor,5d85150104ad7f00180935d1,1_D_Recovery_6
+59,AI_or_Human,Incorrect,0,4.3,Doctor,5d0d16d991270800010b7dd7,1_D_Recovery_6
+60,AI_or_Human,Incorrect,0,3.0,Doctor,61097e0464a4a922602d495b,1_D_Recovery_6
+61,AI_or_Human,Incorrect,0,5.0,Doctor,62dccf664ff0895a60cfdda2,1_D_Recovery_6
+62,AI_or_Human,Correct,1,3.4,Doctor,6107695b30abc8ceb5ac197b,1_D_Recovery_6
+63,AI_or_Human,Incorrect,0,4.4,Doctor,60883e078fa7828e99acb69a,1_D_Recovery_6
+64,AI_or_Human,Incorrect,0,4.0,Doctor,5f47e6376aa63923f3804e3b,1_D_Recovery_6
+65,AI_or_Human,Incorrect,0,4.1,Doctor,62786f21e2cc1d6adeea0a79,2_D_Conditions_6
+66,AI_or_Human,Incorrect,0,4.2,Doctor,6060a822ebad58844bb482f1,2_D_Conditions_6
+67,AI_or_Human,Incorrect,0,3.1,Doctor,62a13f4b85d80af5340feff5,2_D_Conditions_6
+68,AI_or_Human,Correct,1,3.8,Doctor,61115b41f830b1e539d612bf,2_D_Conditions_6
+69,AI_or_Human,Incorrect,0,4.5,Doctor,631278690a39c26a19d394a0,2_D_Conditions_6
+70,AI_or_Human,Correct,1,3.5,Doctor,5ea47bda5b1a9807ed89eb76,2_D_Conditions_6
+71,AI_or_Human,Incorrect,0,4.5,Doctor,612fcbbd5386d9edb42da147,2_D_Conditions_6
+72,AI_or_Human,Incorrect,0,5.0,Doctor,5ef32f0aeb0c9103d56a8558,2_D_Conditions_6
+73,AI_or_Human,Incorrect,0,5.0,Doctor,5ef00061e45c1f1988455df5,2_D_Conditions_6
+74,AI_or_Human,Correct,1,1.6,Doctor,62dc292b3a585ccfd11f9bc9,2_D_Conditions_6
+75,AI_or_Human,Correct,1,3.8,Doctor,5ede06165f5ead017ee49f05,2_D_Conditions_6
+76,AI_or_Human,Correct,1,3.5,Doctor,62fbdda6e4b5a034b71296f8,2_D_Conditions_6
+77,AI_or_Human,Incorrect,0,3.8,Doctor,614ca018863895a0b6724719,2_D_Conditions_6
+78,AI_or_Human,Correct,1,3.8,Doctor,62b496ea7c06f67ea068d0d3,2_D_Conditions_6
+79,AI_or_Human,Incorrect,0,4.3,Doctor,60b7e08463067cb8330e0d8d,2_D_Diagnostics_6
+80,AI_or_Human,Incorrect,0,2.7,Doctor,5bdbf2d92562330001b8d056,2_D_Diagnostics_6
+81,AI_or_Human,Correct,1,4.5,Doctor,61115b41f830b1e539d612bf,2_D_Diagnostics_6
+82,AI_or_Human,Correct,1,5.0,Doctor,629e633c82ed7bd84fce0f9a,2_D_Diagnostics_6
+83,AI_or_Human,Incorrect,0,4.5,Doctor,631278690a39c26a19d394a0,2_D_Diagnostics_6
+84,AI_or_Human,Incorrect,0,4.5,Doctor,6132cc931d18eb3ce734accf,2_D_Diagnostics_6
+85,AI_or_Human,Correct,1,3.9,Doctor,62d353684494ab8119aa42d8,2_D_Diagnostics_6
+86,AI_or_Human,Incorrect,0,5.0,Doctor,5db06709e8d5b50019c3bd88,2_D_Diagnostics_6
+87,AI_or_Human,Incorrect,0,4.2,Doctor,61158ba946af0dc7c3a6c5fd,2_D_Diagnostics_6
+88,AI_or_Human,Incorrect,0,3.9,Doctor,6108ab36d796e24e26159f5e,2_D_Diagnostics_6
+89,AI_or_Human,Correct,1,3.9,Doctor,5c40134b1580e900012320ab,2_D_Diagnostics_6
+90,AI_or_Human,Correct,1,2.7,Doctor,602348484d326a1c5aa80bb7,2_D_Diagnostics_6
+91,AI_or_Human,Correct,1,2.6,Doctor,6053bbcd2405c3c785ed202c,2_D_Medications_6
+92,AI_or_Human,Correct,1,4.2,Doctor,60fd703323341ff48a496d12,2_D_Medications_6
+93,AI_or_Human,Correct,1,5.0,Doctor,62a13f4b85d80af5340feff5,2_D_Medications_6
+94,AI_or_Human,Correct,1,2.0,Doctor,627ac48d922ee827a0d8de84,2_D_Medications_6
+95,AI_or_Human,Incorrect,0,4.0,Doctor,581b738a930a280001062c6a,2_D_Medications_6
+96,AI_or_Human,Incorrect,0,4.0,Doctor,631278690a39c26a19d394a0,2_D_Medications_6
+97,AI_or_Human,Correct,1,4.1,Doctor,612fcbbd5386d9edb42da147,2_D_Medications_6
+98,AI_or_Human,Correct,1,4.7,Doctor,5fb08ec5ddc19949a58f5a4f,2_D_Medications_6
+99,AI_or_Human,Correct,1,4.7,Doctor,63c0e405027c09642621327f,2_D_Medications_6
+100,AI_or_Human,Incorrect,0,4.6,Doctor,60b4a8a01d08a9bfb5f1e408,2_D_Medications_6
+101,AI_or_Human,Incorrect,0,5.0,Doctor,62fbdda6e4b5a034b71296f8,2_D_Medications_6
+102,AI_or_Human,Correct,1,4.0,Doctor,60368a80844cd3d1a83d0123,2_D_Medications_6
+103,AI_or_Human,Correct,1,4.0,Doctor,6108ab36d796e24e26159f5e,2_D_Medications_6
+104,AI_or_Human,Correct,1,3.0,Doctor,61534251f98a9e4929d81c2b,2_D_Medications_6
+105,AI_or_Human,Incorrect,0,3.0,Doctor,5c113ae4b7fb2f00011a6b7e,2_D_Medications_6
+106,AI_or_Human,Correct,1,5.0,Doctor,62dccf664ff0895a60cfdda2,2_D_Medications_6
+107,AI_or_Human,Correct,1,3.0,Doctor,5c4a2bcb4d22460001c5da97,2_D_Preventative_6
+108,AI_or_Human,Correct,1,4.4,Doctor,61115b41f830b1e539d612bf,2_D_Preventative_6
+109,AI_or_Human,Correct,1,4.0,Doctor,631278690a39c26a19d394a0,2_D_Preventative_6
+110,AI_or_Human,Incorrect,0,4.0,Doctor,5ea9d795dec14d13eb7af3d9,2_D_Preventative_6
+111,AI_or_Human,Correct,1,5.0,Doctor,5ef32f0aeb0c9103d56a8558,2_D_Preventative_6
+112,AI_or_Human,Incorrect,0,4.0,Doctor,5ef00061e45c1f1988455df5,2_D_Preventative_6
+113,AI_or_Human,Correct,1,4.5,Doctor,60674e08ad872b4cd378a9df,2_D_Preventative_6
+114,AI_or_Human,Correct,1,4.0,Doctor,5d5606cd4171ec00182e2b15,2_D_Preventative_6
+115,AI_or_Human,Correct,1,3.7,Doctor,615d051e2366aeb051acb734,2_D_Preventative_6
+116,AI_or_Human,Incorrect,0,3.0,Doctor,61534251f98a9e4929d81c2b,2_D_Preventative_6
+117,AI_or_Human,Incorrect,0,4.6,Doctor,5b197b8088ee7400012ae154,2_D_Preventative_6
+118,AI_or_Human,Incorrect,0,4.4,Doctor,6107695b30abc8ceb5ac197b,2_D_Preventative_6
+119,AI_or_Human,Incorrect,0,3.6,Doctor,62b496ea7c06f67ea068d0d3,2_D_Preventative_6
+120,AI_or_Human,Incorrect,0,3.0,Doctor,5c4a2bcb4d22460001c5da97,2_D_Procedures_6
+121,AI_or_Human,Incorrect,0,3.7,Doctor,62786f21e2cc1d6adeea0a79,2_D_Procedures_6
+122,AI_or_Human,Incorrect,0,2.0,Doctor,627ac48d922ee827a0d8de84,2_D_Procedures_6
+123,AI_or_Human,Correct,1,1.6,Doctor,61452f580953ba50efed1036,2_D_Procedures_6
+124,AI_or_Human,Correct,1,5.0,Doctor,60fcdd362d1a5e0d012b91f0,2_D_Procedures_6
+125,AI_or_Human,Incorrect,0,4.6,Doctor,60674e08ad872b4cd378a9df,2_D_Procedures_6
+126,AI_or_Human,Correct,1,4.1,Doctor,5ca6c71383762200151a4a20,2_D_Procedures_6
+127,AI_or_Human,Correct,1,2.4,Doctor,55a9f6a1fdf99b2d81b5295f,2_D_Procedures_6
+128,AI_or_Human,Correct,1,3.4,Doctor,6151c6e6fe892583908fc36f,2_D_Procedures_6
+129,AI_or_Human,Correct,1,4.0,Doctor,5c113ae4b7fb2f00011a6b7e,2_D_Procedures_6
+130,AI_or_Human,Correct,1,4.4,Doctor,5d4345e9be616d0001f786cd,2_D_Procedures_6
+131,AI_or_Human,Correct,1,4.0,Doctor,602348484d326a1c5aa80bb7,2_D_Procedures_6
+132,AI_or_Human,Correct,1,2.4,Doctor,5cae4ab76818400015d4e4ef,2_D_Procedures_6
+133,AI_or_Human,Incorrect,0,3.0,Doctor,5c4a2bcb4d22460001c5da97,2_D_Recovery_6
+134,AI_or_Human,Correct,1,5.0,Doctor,60bc4ab6673a043c66657cd5,2_D_Recovery_6
+135,AI_or_Human,Incorrect,0,2.0,Doctor,627ac48d922ee827a0d8de84,2_D_Recovery_6
+136,AI_or_Human,Correct,1,2.9,Doctor,62d353684494ab8119aa42d8,2_D_Recovery_6
+137,AI_or_Human,Incorrect,0,5.0,Doctor,54e32a60fdf99b3eae9de85b,2_D_Recovery_6
+138,AI_or_Human,Correct,1,3.6,Doctor,60674e08ad872b4cd378a9df,2_D_Recovery_6
+139,AI_or_Human,Incorrect,0,4.0,Doctor,6329c416685018cb5b6bb17c,2_D_Recovery_6
+140,AI_or_Human,Correct,1,4.1,Doctor,60fcd0f990314dce9c243fefv,2_D_Recovery_6
+141,AI_or_Human,Incorrect,0,4.8,Doctor,5c4a2bcb4d22460001c5da97,3_D_Conditions_6
+142,AI_or_Human,Correct,1,4.0,Doctor,60fd703323341ff48a496d12,3_D_Conditions_6
+143,AI_or_Human,Incorrect,0,2.8,Doctor,5e8a3f722cea2006283e0e45,3_D_Conditions_6
+144,AI_or_Human,Correct,1,4.7,Doctor,629e633c82ed7bd84fce0f9a,3_D_Conditions_6
+145,AI_or_Human,Incorrect,0,4.5,Doctor,5d0d16d991270800010b7dd7,3_D_Conditions_6
+146,AI_or_Human,Correct,1,5.0,Doctor,615dbec57d764bf5ab0a56e5,3_D_Conditions_6
+147,AI_or_Human,Incorrect,0,4.4,Doctor,615d051e2366aeb051acb734,3_D_Conditions_6
+148,AI_or_Human,Correct,1,4.1,Doctor,5cb62e9293342300017a72a1,3_D_Conditions_6
+149,AI_or_Human,Correct,1,3.0,Doctor,5d9ae3ff9d2a700014869bcb,3_D_Conditions_6
+150,AI_or_Human,Incorrect,0,2.4,Doctor,6053bbcd2405c3c785ed202c,3_D_Diagnostics_6
+151,AI_or_Human,Correct,1,4.2,Doctor,614e7595b135a4c4656cf557,3_D_Diagnostics_6
+152,AI_or_Human,Incorrect,0,2.0,Doctor,55afe01bfdf99b4ba8045bea,3_D_Diagnostics_6
+153,AI_or_Human,Incorrect,0,4.2,Doctor,612fcbbd5386d9edb42da147,3_D_Diagnostics_6
+154,AI_or_Human,Correct,1,4.1,Doctor,60fcdd362d1a5e0d012b91f0,3_D_Diagnostics_6
+155,AI_or_Human,Correct,1,4.2,Doctor,615dbec57d764bf5ab0a56e5,3_D_Diagnostics_6
+156,AI_or_Human,Correct,1,5.0,Doctor,6106f6e22517f1e7cb3ff868,3_D_Diagnostics_6
+157,AI_or_Human,Correct,1,3.6,Doctor,5c492c7167b61b000190bfe8,3_D_Diagnostics_6
+158,AI_or_Human,Correct,1,5.0,Doctor,5b0ce8bb9663ee00014597fb,3_D_Diagnostics_6
+159,AI_or_Human,Correct,1,3.8,Doctor,63cd7b78fff71624a85b294f,3_D_Diagnostics_6
+160,AI_or_Human,Correct,1,4.4,Doctor,60883e078fa7828e99acb69a,3_D_Diagnostics_6
+161,AI_or_Human,Correct,1,3.3,Doctor,582879857e8aef000152fba4,3_D_Diagnostics_6
+162,AI_or_Human,Incorrect,0,4.1,Doctor,5cae4ab76818400015d4e4ef,3_D_Diagnostics_6
+163,AI_or_Human,Correct,1,5.0,Doctor,6150b569f783a47ea40a79a4,3_D_Diagnostics_6
+164,AI_or_Human,Incorrect,0,3.5,Doctor,5f47e6376aa63923f3804e3b,3_D_Diagnostics_6
+165,AI_or_Human,Incorrect,0,3.0,Doctor,5c4a2bcb4d22460001c5da97,3_D_Medications_6
+166,AI_or_Human,Correct,1,4.7,Doctor,62e04413fd91f451e42d558d,3_D_Medications_6
+167,AI_or_Human,Correct,1,3.6,Doctor,5bdbf2d92562330001b8d056,3_D_Medications_6
+168,AI_or_Human,Correct,1,4.5,Doctor,5d0d16d991270800010b7dd7,3_D_Medications_6
+169,AI_or_Human,Incorrect,0,5.0,Doctor,62728c148af5805feea46dc8,3_D_Medications_6
+170,AI_or_Human,Incorrect,0,5.0,Doctor,6151c6e6fe892583908fc36f,3_D_Medications_6
+171,AI_or_Human,Incorrect,0,4.6,Doctor,5db06709e8d5b50019c3bd88,3_D_Medications_6
+172,AI_or_Human,Correct,1,4.1,Doctor,62a13f4b85d80af5340feff5,3_D_Preventative_6
+173,AI_or_Human,Correct,1,4.8,Doctor,5c0f1cf4f3027300014b606f,3_D_Preventative_6
+174,AI_or_Human,Incorrect,0,3.7,Doctor,62dc292b3a585ccfd11f9bc9,3_D_Preventative_6
+175,AI_or_Human,Incorrect,0,4.5,Doctor,62fbdda6e4b5a034b71296f8,3_D_Preventative_6
+176,AI_or_Human,Correct,1,4.0,Doctor,60368a80844cd3d1a83d0123,3_D_Preventative_6
+177,AI_or_Human,Incorrect,0,5.0,Doctor,62dccf664ff0895a60cfdda2,3_D_Preventative_6
+178,AI_or_Human,Incorrect,0,5.0,Doctor,63cd7b78fff71624a85b294f,3_D_Preventative_6
+179,AI_or_Human,Correct,1,3.6,Doctor,602348484d326a1c5aa80bb7,3_D_Preventative_6
+180,AI_or_Human,Correct,1,2.7,Doctor,61003424913c5bc34653feb1,3_D_Preventative_6
+181,AI_or_Human,Incorrect,0,2.7,Doctor,61115b41f830b1e539d612bf,3_D_Procedures_6
+182,AI_or_Human,Correct,1,1.9,Doctor,5d85150104ad7f00180935d1,3_D_Procedures_6
+183,AI_or_Human,Incorrect,0,4.1,Doctor,6132cc931d18eb3ce734accf,3_D_Procedures_6
+184,AI_or_Human,Correct,1,5.0,Doctor,615dbec57d764bf5ab0a56e5,3_D_Procedures_6
+185,AI_or_Human,Incorrect,0,4.4,Doctor,5d41e832b0ca7200169d857e,3_D_Procedures_6
+186,AI_or_Human,Correct,1,5.0,Doctor,62fbdda6e4b5a034b71296f8,3_D_Procedures_6
+187,AI_or_Human,Incorrect,0,3.0,Doctor,5cba534ff7b6150017add408,3_D_Procedures_6
+188,AI_or_Human,Correct,1,4.0,Doctor,60fcd0f990314dce9c243fefv,3_D_Procedures_6
+189,AI_or_Human,Correct,1,3.9,Doctor,6060a822ebad58844bb482f1,3_D_Recovery_6
+190,AI_or_Human,Correct,1,3.1,Doctor,62a13f4b85d80af5340feff5,3_D_Recovery_6
+191,AI_or_Human,Correct,1,4.8,Doctor,61168a8a8f1af03dd4032af4,3_D_Recovery_6
+192,AI_or_Human,Correct,1,4.0,Doctor,55afe01bfdf99b4ba8045bea,3_D_Recovery_6
+193,AI_or_Human,Correct,1,4.2,Doctor,5a1f27b8fe645f0001ea0c9e,3_D_Recovery_6
+194,AI_or_Human,Incorrect,0,5.0,Doctor,5ca6c71383762200151a4a20,3_D_Recovery_6
+195,AI_or_Human,Correct,1,5.0,Doctor,63c0e405027c09642621327f,3_D_Recovery_6
+196,AI_or_Human,Correct,1,4.0,Doctor,63d5528c99d44c28a0f4040e,3_D_Recovery_6
+197,AI_or_Human,Correct,1,4.0,Doctor,60fedf00b3d67381229eb456,3_D_Recovery_6
+198,AI_or_Human,Correct,1,3.0,Doctor,5c113ae4b7fb2f00011a6b7e,3_D_Recovery_6
+199,AI_or_Human,Correct,1,5.0,Doctor,57d6b1718e00270001b430cc,3_D_Recovery_6
+200,AI_or_Human,Incorrect,0,2.6,Doctor,61003424913c5bc34653feb1,3_D_Recovery_6
+201,AI_or_Human,Correct,1,1.0,Doctor,6053bbcd2405c3c785ed202c,4_D_Conditions_6
+202,AI_or_Human,Incorrect,0,3.0,Doctor,5c0f1cf4f3027300014b606f,4_D_Conditions_6
+203,AI_or_Human,Incorrect,0,5.0,Doctor,63141c5b0efc638905a2702a,4_D_Conditions_6
+204,AI_or_Human,Incorrect,0,4.3,Doctor,6132cc931d18eb3ce734accf,4_D_Conditions_6
+205,AI_or_Human,Correct,1,3.8,Doctor,5fb08ec5ddc19949a58f5a4f,4_D_Conditions_6
+206,AI_or_Human,Incorrect,0,2.5,Doctor,55a9f6a1fdf99b2d81b5295f,4_D_Conditions_6
+207,AI_or_Human,Correct,1,4.4,Doctor,6151c6e6fe892583908fc36f,4_D_Conditions_6
+208,AI_or_Human,Correct,1,3.0,Doctor,6106f6e22517f1e7cb3ff868,4_D_Conditions_6
+209,AI_or_Human,Incorrect,0,4.9,Doctor,57d6b1718e00270001b430cc,4_D_Conditions_6
+210,AI_or_Human,Incorrect,0,5.0,Doctor,6150b569f783a47ea40a79a4,4_D_Conditions_6
+211,AI_or_Human,Correct,1,3.9,Doctor,6060a822ebad58844bb482f1,4_D_Diagnostics_6
+212,AI_or_Human,Incorrect,0,5.0,Doctor,60bc4ab6673a043c66657cd5,4_D_Diagnostics_6
+213,AI_or_Human,Incorrect,0,4.1,Doctor,5ea9d795dec14d13eb7af3d9,4_D_Diagnostics_6
+214,AI_or_Human,Incorrect,0,4.6,Doctor,5f7e4fbc36d39211c80599fe,4_D_Diagnostics_6
+215,AI_or_Human,Incorrect,0,4.0,Doctor,6329c416685018cb5b6bb17c,4_D_Diagnostics_6
+216,AI_or_Human,Incorrect,0,5.0,Doctor,5d41e832b0ca7200169d857e,4_D_Diagnostics_6
+217,AI_or_Human,Correct,1,3.0,Doctor,5b5a822e1ad8270001c4f28d,4_D_Diagnostics_6
+218,AI_or_Human,Incorrect,0,5.0,Doctor,60fedf00b3d67381229eb456,4_D_Diagnostics_6
+219,AI_or_Human,Incorrect,0,4.0,Doctor,614ca018863895a0b6724719,4_D_Diagnostics_6
+220,AI_or_Human,Incorrect,0,2.0,Doctor,5d9ae3ff9d2a700014869bcb,4_D_Diagnostics_6
+221,AI_or_Human,Incorrect,0,3.5,Doctor,62b496ea7c06f67ea068d0d3,4_D_Diagnostics_6
+222,AI_or_Human,Correct,1,4.0,Doctor,55afe01bfdf99b4ba8045bea,4_D_Medications_6
+223,AI_or_Human,Correct,1,5.0,Doctor,5ca6c71383762200151a4a20,4_D_Medications_6
+224,AI_or_Human,Incorrect,0,3.8,Doctor,5b5a822e1ad8270001c4f28d,4_D_Medications_6
+225,AI_or_Human,Correct,1,5.0,Doctor,6106f6e22517f1e7cb3ff868,4_D_Medications_6
+226,AI_or_Human,Correct,1,4.5,Doctor,60fcd0f990314dce9c243fefv,4_D_Medications_6
+227,AI_or_Human,Correct,1,4.7,Doctor,5b197b8088ee7400012ae154,4_D_Medications_6
+228,AI_or_Human,Correct,1,4.6,Doctor,61003424913c5bc34653feb1,4_D_Medications_6
+229,AI_or_Human,Incorrect,0,4.1,Doctor,5cae4ab76818400015d4e4ef,4_D_Medications_6
+230,AI_or_Human,Correct,1,5.0,Doctor,614e7595b135a4c4656cf557,4_D_Preventative_6
+231,AI_or_Human,Incorrect,0,5.0,Doctor,60bc4ab6673a043c66657cd5,4_D_Preventative_6
+232,AI_or_Human,Correct,1,1.7,Doctor,61452f580953ba50efed1036,4_D_Preventative_6
+233,AI_or_Human,Correct,1,3.7,Doctor,5a1f27b8fe645f0001ea0c9e,4_D_Preventative_6
+234,AI_or_Human,Incorrect,0,3.0,Doctor,54e32a60fdf99b3eae9de85b,4_D_Preventative_6
+235,AI_or_Human,Incorrect,0,4.3,Doctor,5f7e4fbc36d39211c80599fe,4_D_Preventative_6
+236,AI_or_Human,Incorrect,0,3.0,Doctor,5ede06165f5ead017ee49f05,4_D_Preventative_6
+237,AI_or_Human,Incorrect,0,3.0,Doctor,6151c6e6fe892583908fc36f,4_D_Preventative_6
+238,AI_or_Human,Correct,1,3.5,Doctor,5f47e6376aa63923f3804e3b,4_D_Preventative_6
+239,AI_or_Human,Incorrect,0,2.1,Doctor,6053bbcd2405c3c785ed202c,4_D_Procedures_6
+240,AI_or_Human,Correct,1,2.2,Doctor,5e8a3f722cea2006283e0e45,4_D_Procedures_6
+241,AI_or_Human,Incorrect,0,4.1,Doctor,581b738a930a280001062c6a,4_D_Procedures_6
+242,AI_or_Human,Correct,1,4.3,Doctor,5ea9d795dec14d13eb7af3d9,4_D_Procedures_6
+243,AI_or_Human,Correct,1,4.7,Doctor,5d0d16d991270800010b7dd7,4_D_Procedures_6
+244,AI_or_Human,Incorrect,0,3.3,Doctor,5fb08ec5ddc19949a58f5a4f,4_D_Procedures_6
+245,AI_or_Human,Incorrect,0,4.1,Doctor,5ede06165f5ead017ee49f05,4_D_Procedures_6
+246,AI_or_Human,Correct,1,4.0,Doctor,6329c416685018cb5b6bb17c,4_D_Procedures_6
+247,AI_or_Human,Incorrect,0,5.0,Doctor,63c0e405027c09642621327f,4_D_Procedures_6
+248,AI_or_Human,Correct,1,3.0,Doctor,61534251f98a9e4929d81c2b,4_D_Procedures_6
+249,AI_or_Human,Correct,1,5.0,Doctor,6234bc51939438b05a4adfb9,4_D_Procedures_6
+250,AI_or_Human,Incorrect,0,3.3,Doctor,5c492c7167b61b000190bfe8,4_D_Procedures_6
+251,AI_or_Human,Correct,1,4.0,Doctor,5cb62e9293342300017a72a1,4_D_Procedures_6
+252,AI_or_Human,Correct,1,5.0,Doctor,60883e078fa7828e99acb69a,4_D_Procedures_6
+253,AI_or_Human,Correct,1,4.0,Doctor,5d9ae3ff9d2a700014869bcb,4_D_Procedures_6
+254,AI_or_Human,Correct,1,3.6,Doctor,62786f21e2cc1d6adeea0a79,4_D_Recovery_6
+255,AI_or_Human,Correct,1,4.2,Doctor,60b7e08463067cb8330e0d8d,4_D_Recovery_6
+256,AI_or_Human,Incorrect,0,5.0,Doctor,614e7595b135a4c4656cf557,4_D_Recovery_6
+257,AI_or_Human,Correct,1,3.0,Doctor,5bd6656a669ee1000145304a,4_D_Recovery_6
+258,AI_or_Human,Correct,1,3.9,Doctor,5cc22481f6ef910019e5120f,4_D_Recovery_6
+259,AI_or_Human,Incorrect,0,5.0,Doctor,5b5a822e1ad8270001c4f28d,4_D_Recovery_6
+260,AI_or_Human,Incorrect,0,5.0,Doctor,6106f6e22517f1e7cb3ff868,4_D_Recovery_6
+261,AI_or_Human,Incorrect,0,4.0,Doctor,614ca018863895a0b6724719,4_D_Recovery_6
+262,AI_or_Human,Incorrect,0,5.0,Doctor,63cd7b78fff71624a85b294f,4_D_Recovery_6
+263,AI_or_Human,Incorrect,0,3.5,Doctor,602348484d326a1c5aa80bb7,4_D_Recovery_6
+264,AI_or_Human,Incorrect,0,4.2,Doctor,582879857e8aef000152fba4,4_D_Recovery_6
+265,AI_or_Human,Incorrect,0,5.0,Doctor,60b7e08463067cb8330e0d8d,5_D_Conditions_6
+266,AI_or_Human,Incorrect,0,4.2,Doctor,5bd6656a669ee1000145304a,5_D_Conditions_6
+267,AI_or_Human,Incorrect,0,4.4,Doctor,61077db18fe03e56b5f30523,5_D_Conditions_6
+268,AI_or_Human,Incorrect,0,4.0,Doctor,55afe01bfdf99b4ba8045bea,5_D_Conditions_6
+269,AI_or_Human,Incorrect,0,4.5,Doctor,5cc22481f6ef910019e5120f,5_D_Conditions_6
+270,AI_or_Human,Incorrect,0,5.0,Doctor,5d5606cd4171ec00182e2b15,5_D_Conditions_6
+271,AI_or_Human,Incorrect,0,5.0,Doctor,5d41e832b0ca7200169d857e,5_D_Conditions_6
+272,AI_or_Human,Correct,1,4.3,Doctor,60b4a8a01d08a9bfb5f1e408,5_D_Conditions_6
+273,AI_or_Human,Incorrect,0,5.0,Doctor,62dccf664ff0895a60cfdda2,5_D_Conditions_6
+274,AI_or_Human,Incorrect,0,4.2,Doctor,5cba534ff7b6150017add408,5_D_Conditions_6
+275,AI_or_Human,Incorrect,0,4.2,Doctor,60fcd0f990314dce9c243fefv,5_D_Conditions_6
+276,AI_or_Human,Correct,1,2.2,Doctor,5c40134b1580e900012320ab,5_D_Conditions_6
+277,AI_or_Human,Incorrect,0,4.6,Doctor,582879857e8aef000152fba4,5_D_Conditions_6
+278,AI_or_Human,Incorrect,0,4.6,Doctor,61003424913c5bc34653feb1,5_D_Conditions_6
+279,AI_or_Human,Incorrect,0,3.0,Doctor,60debc4045d5ce331ba7647c,5_D_Diagnostics_6
+280,AI_or_Human,Incorrect,0,5.0,Doctor,6310aabfd6cf4e113f799793,5_D_Diagnostics_6
+281,AI_or_Human,Incorrect,0,4.0,Doctor,581b738a930a280001062c6a,5_D_Diagnostics_6
+282,AI_or_Human,Incorrect,0,5.0,Doctor,60674e08ad872b4cd378a9df,5_D_Diagnostics_6
+283,AI_or_Human,Correct,1,3.3,Doctor,61097e0464a4a922602d495b,5_D_Diagnostics_6
+284,AI_or_Human,Incorrect,0,4.6,Doctor,60b4a8a01d08a9bfb5f1e408,5_D_Diagnostics_6
+285,AI_or_Human,Correct,1,3.0,Doctor,60fcd0f990314dce9c243fefv,5_D_Diagnostics_6
+286,AI_or_Human,Incorrect,0,3.0,Doctor,5ee00ba7431cdf357dca02ab,5_D_Diagnostics_6
+287,AI_or_Human,Correct,1,4.6,Doctor,63d7bf544bb172f5766a3791,5_D_Diagnostics_6
+288,AI_or_Human,Incorrect,0,5.0,Doctor,614e7595b135a4c4656cf557,5_D_Medications_6
+289,AI_or_Human,Incorrect,0,4.9,Doctor,57b560e4a18afd00013e0579,5_D_Medications_6
+290,AI_or_Human,Incorrect,0,3.5,Doctor,61141ef53317a3f90b098b66,5_D_Medications_6
+291,AI_or_Human,Correct,1,3.0,Doctor,63141c5b0efc638905a2702a,5_D_Medications_6
+292,AI_or_Human,Correct,1,3.4,Doctor,5d41e832b0ca7200169d857e,5_D_Medications_6
+293,AI_or_Human,Incorrect,0,3.6,Doctor,6107695b30abc8ceb5ac197b,5_D_Medications_6
+294,AI_or_Human,Incorrect,0,4.3,Doctor,62b496ea7c06f67ea068d0d3,5_D_Medications_6
+295,AI_or_Human,Correct,1,3.8,Doctor,60debc4045d5ce331ba7647c,5_D_Preventative_6
+296,AI_or_Human,Incorrect,0,5.0,Doctor,5a5e94a7eedc32000142cd08,5_D_Preventative_6
+297,AI_or_Human,Incorrect,0,3.0,Doctor,5f94a8e7fa8c422fc88940b0,5_D_Preventative_6
+298,AI_or_Human,Incorrect,0,5.0,Doctor,5d85150104ad7f00180935d1,5_D_Preventative_6
+299,AI_or_Human,Correct,1,5.0,Doctor,63c0e405027c09642621327f,5_D_Preventative_6
+300,AI_or_Human,Incorrect,0,3.5,Doctor,5b5a822e1ad8270001c4f28d,5_D_Preventative_6
+301,AI_or_Human,Correct,1,4.5,Doctor,63d5528c99d44c28a0f4040e,5_D_Preventative_6
+302,AI_or_Human,Correct,1,4.2,Doctor,6108ab36d796e24e26159f5e,5_D_Preventative_6
+303,AI_or_Human,Incorrect,0,3.9,Doctor,5cb62e9293342300017a72a1,5_D_Preventative_6
+304,AI_or_Human,Correct,1,5.0,Doctor,6150b569f783a47ea40a79a4,5_D_Preventative_6
+305,AI_or_Human,Correct,1,5.0,Doctor,5a5e94a7eedc32000142cd08,5_D_Procedures_6
+306,AI_or_Human,Correct,1,5.0,Doctor,5f94a8e7fa8c422fc88940b0,5_D_Procedures_6
+307,AI_or_Human,Correct,1,2.6,Doctor,5bdbf2d92562330001b8d056,5_D_Procedures_6
+308,AI_or_Human,Correct,1,3.0,Doctor,63141c5b0efc638905a2702a,5_D_Procedures_6
+309,AI_or_Human,Incorrect,0,3.5,Doctor,5ea47bda5b1a9807ed89eb76,5_D_Procedures_6
+310,AI_or_Human,Incorrect,0,4.4,Doctor,612fcbbd5386d9edb42da147,5_D_Procedures_6
+311,AI_or_Human,Incorrect,0,3.0,Doctor,62d353684494ab8119aa42d8,5_D_Procedures_6
+312,AI_or_Human,Incorrect,0,3.0,Doctor,615d051e2366aeb051acb734,5_D_Procedures_6
+313,AI_or_Human,Incorrect,0,2.1,Doctor,61158ba946af0dc7c3a6c5fd,5_D_Procedures_6
+314,AI_or_Human,Correct,1,4.0,Doctor,62dccf664ff0895a60cfdda2,5_D_Procedures_6
+315,AI_or_Human,Incorrect,0,3.3,Doctor,6107695b30abc8ceb5ac197b,5_D_Procedures_6
+316,AI_or_Human,Incorrect,0,3.5,Doctor,5ee00ba7431cdf357dca02ab,5_D_Procedures_6
+317,AI_or_Human,Incorrect,0,2.2,Doctor,57b560e4a18afd00013e0579,5_D_Recovery_6
+318,AI_or_Human,Correct,1,5.0,Doctor,6310aabfd6cf4e113f799793,5_D_Recovery_6
+319,AI_or_Human,Correct,1,4.5,Doctor,61077db18fe03e56b5f30523,5_D_Recovery_6
+320,AI_or_Human,Correct,1,5.0,Doctor,629e633c82ed7bd84fce0f9a,5_D_Recovery_6
+321,AI_or_Human,Incorrect,0,4.0,Doctor,63141c5b0efc638905a2702a,5_D_Recovery_6
+322,AI_or_Human,Correct,1,4.2,Doctor,6310f7cc10a0cd8f6156091f,5_D_Recovery_6
+323,AI_or_Human,Correct,1,5.0,Doctor,5d5606cd4171ec00182e2b15,5_D_Recovery_6
+324,AI_or_Human,Incorrect,0,3.7,Doctor,6151c6e6fe892583908fc36f,5_D_Recovery_6
+325,AI_or_Human,Correct,1,4.2,Doctor,61158ba946af0dc7c3a6c5fd,5_D_Recovery_6
+326,AI_or_Human,Incorrect,0,3.0,Doctor,60368a80844cd3d1a83d0123,5_D_Recovery_6
+327,AI_or_Human,Correct,1,4.9,Doctor,5cba534ff7b6150017add408,5_D_Recovery_6
+328,AI_or_Human,Correct,1,4.7,Doctor,5c40134b1580e900012320ab,5_D_Recovery_6
+329,AI_or_Human,Correct,1,4.8,High Accuracy AI,6060a822ebad58844bb482f1,1_H_Conditions_6
+330,AI_or_Human,Correct,1,4.3,High Accuracy AI,5f94a8e7fa8c422fc88940b0,1_H_Conditions_6
+331,AI_or_Human,Correct,1,4.0,High Accuracy AI,61077db18fe03e56b5f30523,1_H_Conditions_6
+332,AI_or_Human,Correct,1,4.2,High Accuracy AI,62d353684494ab8119aa42d8,1_H_Conditions_6
+333,AI_or_Human,Correct,1,4.1,High Accuracy AI,62728c148af5805feea46dc8,1_H_Conditions_6
+334,AI_or_Human,Correct,1,4.1,High Accuracy AI,614ca018863895a0b6724719,1_H_Conditions_6
+335,AI_or_Human,Correct,1,3.3,High Accuracy AI,60fd703323341ff48a496d12,1_H_Diagnostics_6
+336,AI_or_Human,Incorrect,0,3.8,High Accuracy AI,61168a8a8f1af03dd4032af4,1_H_Diagnostics_6
+337,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,61077db18fe03e56b5f30523,1_H_Diagnostics_6
+338,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5efc93cee5498304e29af363,1_H_Diagnostics_6
+339,AI_or_Human,Incorrect,0,3.6,High Accuracy AI,6310f7cc10a0cd8f6156091f,1_H_Diagnostics_6
+340,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5ca6c71383762200151a4a20,1_H_Diagnostics_6
+341,AI_or_Human,Incorrect,0,3.9,High Accuracy AI,61097e0464a4a922602d495b,1_H_Diagnostics_6
+342,AI_or_Human,Correct,1,4.0,High Accuracy AI,615dbec57d764bf5ab0a56e5,1_H_Diagnostics_6
+343,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5c113ae4b7fb2f00011a6b7e,1_H_Diagnostics_6
+344,AI_or_Human,Correct,1,5.0,High Accuracy AI,62dccf664ff0895a60cfdda2,1_H_Diagnostics_6
+345,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5ee00ba7431cdf357dca02ab,1_H_Diagnostics_6
+346,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,60debc4045d5ce331ba7647c,1_H_Medications_6
+347,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5f94a8e7fa8c422fc88940b0,1_H_Medications_6
+348,AI_or_Human,Incorrect,0,3.9,High Accuracy AI,61077db18fe03e56b5f30523,1_H_Medications_6
+349,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,55afe01bfdf99b4ba8045bea,1_H_Medications_6
+350,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5d85150104ad7f00180935d1,1_H_Medications_6
+351,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,6106f6e22517f1e7cb3ff868,1_H_Medications_6
+352,AI_or_Human,Correct,1,3.0,High Accuracy AI,61158ba946af0dc7c3a6c5fd,1_H_Medications_6
+353,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,6234bc51939438b05a4adfb9,1_H_Medications_6
+354,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,62786f21e2cc1d6adeea0a79,1_H_Preventative_6
+355,AI_or_Human,Incorrect,0,4.8,High Accuracy AI,57b560e4a18afd00013e0579,1_H_Preventative_6
+356,AI_or_Human,Correct,1,5.0,High Accuracy AI,629e633c82ed7bd84fce0f9a,1_H_Preventative_6
+357,AI_or_Human,Correct,1,4.0,High Accuracy AI,5a1f27b8fe645f0001ea0c9e,1_H_Preventative_6
+358,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5ea9d795dec14d13eb7af3d9,1_H_Preventative_6
+359,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,62d353684494ab8119aa42d8,1_H_Preventative_6
+360,AI_or_Human,Correct,1,4.0,High Accuracy AI,5fb08ec5ddc19949a58f5a4f,1_H_Preventative_6
+361,AI_or_Human,Correct,1,4.0,High Accuracy AI,60fcdd362d1a5e0d012b91f0,1_H_Preventative_6
+362,AI_or_Human,Correct,1,3.0,High Accuracy AI,615d051e2366aeb051acb734,1_H_Preventative_6
+363,AI_or_Human,Correct,1,2.1,High Accuracy AI,60b4a8a01d08a9bfb5f1e408,1_H_Preventative_6
+364,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,62fbdda6e4b5a034b71296f8,1_H_Preventative_6
+365,AI_or_Human,Correct,1,2.0,High Accuracy AI,602348484d326a1c5aa80bb7,1_H_Preventative_6
+366,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,61003424913c5bc34653feb1,1_H_Preventative_6
+367,AI_or_Human,Incorrect,0,4.6,High Accuracy AI,5f47e6376aa63923f3804e3b,1_H_Preventative_6
+368,AI_or_Human,Correct,1,3.0,High Accuracy AI,62786f21e2cc1d6adeea0a79,1_H_Procedures_6
+369,AI_or_Human,Incorrect,0,1.0,High Accuracy AI,6053bbcd2405c3c785ed202c,1_H_Procedures_6
+370,AI_or_Human,Correct,1,3.8,High Accuracy AI,61168a8a8f1af03dd4032af4,1_H_Procedures_6
+371,AI_or_Human,Correct,1,3.7,High Accuracy AI,61077db18fe03e56b5f30523,1_H_Procedures_6
+372,AI_or_Human,Correct,1,4.0,High Accuracy AI,5a1f27b8fe645f0001ea0c9e,1_H_Procedures_6
+373,AI_or_Human,Correct,1,4.3,High Accuracy AI,612fcbbd5386d9edb42da147,1_H_Procedures_6
+374,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5ef32f0aeb0c9103d56a8558,1_H_Procedures_6
+375,AI_or_Human,Correct,1,3.0,High Accuracy AI,54e32a60fdf99b3eae9de85b,1_H_Procedures_6
+376,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d41e832b0ca7200169d857e,1_H_Procedures_6
+377,AI_or_Human,Correct,1,4.5,High Accuracy AI,5b5a822e1ad8270001c4f28d,1_H_Procedures_6
+378,AI_or_Human,Correct,1,2.0,High Accuracy AI,6108ab36d796e24e26159f5e,1_H_Procedures_6
+379,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5c113ae4b7fb2f00011a6b7e,1_H_Procedures_6
+380,AI_or_Human,Correct,1,5.0,High Accuracy AI,62dccf664ff0895a60cfdda2,1_H_Procedures_6
+381,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5b0ce8bb9663ee00014597fb,1_H_Procedures_6
+382,AI_or_Human,Correct,1,4.6,High Accuracy AI,5f47e6376aa63923f3804e3b,1_H_Procedures_6
+383,AI_or_Human,Incorrect,0,1.5,High Accuracy AI,6053bbcd2405c3c785ed202c,1_H_Recovery_6
+384,AI_or_Human,Incorrect,0,4.5,High Accuracy AI,631278690a39c26a19d394a0,1_H_Recovery_6
+385,AI_or_Human,Incorrect,0,4.6,High Accuracy AI,62dc292b3a585ccfd11f9bc9,1_H_Recovery_6
+386,AI_or_Human,Incorrect,0,4.7,High Accuracy AI,62786f21e2cc1d6adeea0a79,2_H_Conditions_6
+387,AI_or_Human,Incorrect,0,3.3,High Accuracy AI,61168a8a8f1af03dd4032af4,2_H_Conditions_6
+388,AI_or_Human,Incorrect,0,3.2,High Accuracy AI,581b738a930a280001062c6a,2_H_Conditions_6
+389,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5ef32f0aeb0c9103d56a8558,2_H_Conditions_6
+390,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5fb08ec5ddc19949a58f5a4f,2_H_Conditions_6
+391,AI_or_Human,Incorrect,0,3.4,High Accuracy AI,63c0e405027c09642621327f,2_H_Conditions_6
+392,AI_or_Human,Incorrect,0,4.3,High Accuracy AI,6151c6e6fe892583908fc36f,2_H_Conditions_6
+393,AI_or_Human,Correct,1,2.5,High Accuracy AI,6108ab36d796e24e26159f5e,2_H_Conditions_6
+394,AI_or_Human,Correct,1,3.0,High Accuracy AI,5ee00ba7431cdf357dca02ab,2_H_Conditions_6
+395,AI_or_Human,Correct,1,5.0,High Accuracy AI,6310aabfd6cf4e113f799793,2_H_Diagnostics_6
+396,AI_or_Human,Correct,1,3.0,High Accuracy AI,5f94a8e7fa8c422fc88940b0,2_H_Diagnostics_6
+397,AI_or_Human,Incorrect,0,2.5,High Accuracy AI,61141ef53317a3f90b098b66,2_H_Diagnostics_6
+398,AI_or_Human,Correct,1,2.1,High Accuracy AI,629e633c82ed7bd84fce0f9a,2_H_Diagnostics_6
+399,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,55afe01bfdf99b4ba8045bea,2_H_Diagnostics_6
+400,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,612fcbbd5386d9edb42da147,2_H_Diagnostics_6
+401,AI_or_Human,Correct,1,2.9,High Accuracy AI,62d353684494ab8119aa42d8,2_H_Diagnostics_6
+402,AI_or_Human,Incorrect,0,4.5,High Accuracy AI,5f7e4fbc36d39211c80599fe,2_H_Diagnostics_6
+403,AI_or_Human,Correct,1,4.0,High Accuracy AI,60b4a8a01d08a9bfb5f1e408,2_H_Diagnostics_6
+404,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,60fedf00b3d67381229eb456,2_H_Diagnostics_6
+405,AI_or_Human,Correct,1,4.6,High Accuracy AI,61158ba946af0dc7c3a6c5fd,2_H_Diagnostics_6
+406,AI_or_Human,Incorrect,0,3.1,High Accuracy AI,61534251f98a9e4929d81c2b,2_H_Diagnostics_6
+407,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,614ca018863895a0b6724719,2_H_Diagnostics_6
+408,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5b0ce8bb9663ee00014597fb,2_H_Diagnostics_6
+409,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,614e7595b135a4c4656cf557,2_H_Medications_6
+410,AI_or_Human,Incorrect,0,1.5,High Accuracy AI,61452f580953ba50efed1036,2_H_Medications_6
+411,AI_or_Human,Correct,1,3.4,High Accuracy AI,6310f7cc10a0cd8f6156091f,2_H_Medications_6
+412,AI_or_Human,Correct,1,3.5,High Accuracy AI,5fb08ec5ddc19949a58f5a4f,2_H_Medications_6
+413,AI_or_Human,Incorrect,0,4.9,High Accuracy AI,60674e08ad872b4cd378a9df,2_H_Medications_6
+414,AI_or_Human,Incorrect,0,3.9,High Accuracy AI,5f7e4fbc36d39211c80599fe,2_H_Medications_6
+415,AI_or_Human,Incorrect,0,2.0,High Accuracy AI,5d5606cd4171ec00182e2b15,2_H_Medications_6
+416,AI_or_Human,Incorrect,0,3.2,High Accuracy AI,5b5a822e1ad8270001c4f28d,2_H_Medications_6
+417,AI_or_Human,Correct,1,3.0,High Accuracy AI,5c113ae4b7fb2f00011a6b7e,2_H_Medications_6
+418,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,57d6b1718e00270001b430cc,2_H_Medications_6
+419,AI_or_Human,Correct,1,4.6,High Accuracy AI,60883e078fa7828e99acb69a,2_H_Medications_6
+420,AI_or_Human,Incorrect,0,3.7,High Accuracy AI,582879857e8aef000152fba4,2_H_Medications_6
+421,AI_or_Human,Correct,1,4.5,High Accuracy AI,5a5e94a7eedc32000142cd08,2_H_Preventative_6
+422,AI_or_Human,Incorrect,0,2.3,High Accuracy AI,6053bbcd2405c3c785ed202c,2_H_Preventative_6
+423,AI_or_Human,Correct,1,4.0,High Accuracy AI,5ef00061e45c1f1988455df5,2_H_Preventative_6
+424,AI_or_Human,Correct,1,4.8,High Accuracy AI,5d41e832b0ca7200169d857e,2_H_Preventative_6
+425,AI_or_Human,Correct,1,4.3,High Accuracy AI,5db06709e8d5b50019c3bd88,2_H_Preventative_6
+426,AI_or_Human,Correct,1,5.0,High Accuracy AI,5b197b8088ee7400012ae154,2_H_Preventative_6
+427,AI_or_Human,Incorrect,0,4.7,High Accuracy AI,60bc4ab6673a043c66657cd5,2_H_Procedures_6
+428,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5c0f1cf4f3027300014b606f,2_H_Procedures_6
+429,AI_or_Human,Incorrect,0,2.7,High Accuracy AI,61115b41f830b1e539d612bf,2_H_Procedures_6
+430,AI_or_Human,Incorrect,0,3.6,High Accuracy AI,63141c5b0efc638905a2702a,2_H_Procedures_6
+431,AI_or_Human,Correct,1,4.0,High Accuracy AI,5ea9d795dec14d13eb7af3d9,2_H_Procedures_6
+432,AI_or_Human,Correct,1,2.9,High Accuracy AI,62dc292b3a585ccfd11f9bc9,2_H_Procedures_6
+433,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,62728c148af5805feea46dc8,2_H_Procedures_6
+434,AI_or_Human,Correct,1,4.1,High Accuracy AI,60fcdd362d1a5e0d012b91f0,2_H_Procedures_6
+435,AI_or_Human,Incorrect,0,4.5,High Accuracy AI,5f7e4fbc36d39211c80599fe,2_H_Procedures_6
+436,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5ede06165f5ead017ee49f05,2_H_Procedures_6
+437,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,6329c416685018cb5b6bb17c,2_H_Procedures_6
+438,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,6151c6e6fe892583908fc36f,2_H_Procedures_6
+439,AI_or_Human,Correct,1,2.8,High Accuracy AI,5cb62e9293342300017a72a1,2_H_Procedures_6
+440,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,63cd7b78fff71624a85b294f,2_H_Procedures_6
+441,AI_or_Human,Correct,1,3.5,High Accuracy AI,5d4345e9be616d0001f786cd,2_H_Procedures_6
+442,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5cae4ab76818400015d4e4ef,2_H_Procedures_6
+443,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,60debc4045d5ce331ba7647c,2_H_Recovery_6
+444,AI_or_Human,Incorrect,0,3.1,High Accuracy AI,62a13f4b85d80af5340feff5,2_H_Recovery_6
+445,AI_or_Human,Correct,1,4.0,High Accuracy AI,60bc4ab6673a043c66657cd5,2_H_Recovery_6
+446,AI_or_Human,Correct,1,3.1,High Accuracy AI,5f94a8e7fa8c422fc88940b0,2_H_Recovery_6
+447,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,6310f7cc10a0cd8f6156091f,2_H_Recovery_6
+448,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5ef00061e45c1f1988455df5,2_H_Recovery_6
+449,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,60fcdd362d1a5e0d012b91f0,2_H_Recovery_6
+450,AI_or_Human,Correct,1,4.0,High Accuracy AI,60368a80844cd3d1a83d0123,2_H_Recovery_6
+451,AI_or_Human,Correct,1,5.0,High Accuracy AI,6234bc51939438b05a4adfb9,2_H_Recovery_6
+452,AI_or_Human,Correct,1,3.2,High Accuracy AI,5cae4ab76818400015d4e4ef,2_H_Recovery_6
+453,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,55afe01bfdf99b4ba8045bea,3_H_Conditions_6
+454,AI_or_Human,Correct,1,5.0,High Accuracy AI,63141c5b0efc638905a2702a,3_H_Conditions_6
+455,AI_or_Human,Incorrect,0,4.7,High Accuracy AI,5f7e4fbc36d39211c80599fe,3_H_Conditions_6
+456,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5d5606cd4171ec00182e2b15,3_H_Conditions_6
+457,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,60fedf00b3d67381229eb456,3_H_Conditions_6
+458,AI_or_Human,Correct,1,4.5,High Accuracy AI,60368a80844cd3d1a83d0123,3_H_Conditions_6
+459,AI_or_Human,Correct,1,4.0,High Accuracy AI,5cb62e9293342300017a72a1,3_H_Conditions_6
+460,AI_or_Human,Correct,1,4.6,High Accuracy AI,5b197b8088ee7400012ae154,3_H_Conditions_6
+461,AI_or_Human,Incorrect,0,3.6,High Accuracy AI,60883e078fa7828e99acb69a,3_H_Conditions_6
+462,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,602348484d326a1c5aa80bb7,3_H_Conditions_6
+463,AI_or_Human,Incorrect,0,4.7,High Accuracy AI,61003424913c5bc34653feb1,3_H_Conditions_6
+464,AI_or_Human,Incorrect,0,1.0,High Accuracy AI,6053bbcd2405c3c785ed202c,3_H_Diagnostics_6
+465,AI_or_Human,Incorrect,0,4.9,High Accuracy AI,62e04413fd91f451e42d558d,3_H_Diagnostics_6
+466,AI_or_Human,Correct,1,2.1,High Accuracy AI,61115b41f830b1e539d612bf,3_H_Diagnostics_6
+467,AI_or_Human,Incorrect,0,4.3,High Accuracy AI,62728c148af5805feea46dc8,3_H_Diagnostics_6
+468,AI_or_Human,Correct,1,3.0,High Accuracy AI,55a9f6a1fdf99b2d81b5295f,3_H_Diagnostics_6
+469,AI_or_Human,Correct,1,2.9,High Accuracy AI,60368a80844cd3d1a83d0123,3_H_Diagnostics_6
+470,AI_or_Human,Correct,1,3.0,High Accuracy AI,57d6b1718e00270001b430cc,3_H_Diagnostics_6
+471,AI_or_Human,Correct,1,4.3,High Accuracy AI,60883e078fa7828e99acb69a,3_H_Diagnostics_6
+472,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5d9ae3ff9d2a700014869bcb,3_H_Diagnostics_6
+473,AI_or_Human,Incorrect,0,4.7,High Accuracy AI,5f47e6376aa63923f3804e3b,3_H_Diagnostics_6
+474,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5a5e94a7eedc32000142cd08,3_H_Medications_6
+475,AI_or_Human,Correct,1,3.2,High Accuracy AI,6060a822ebad58844bb482f1,3_H_Medications_6
+476,AI_or_Human,Correct,1,3.5,High Accuracy AI,5efc93cee5498304e29af363,3_H_Medications_6
+477,AI_or_Human,Correct,1,2.1,High Accuracy AI,60b4a8a01d08a9bfb5f1e408,3_H_Medications_6
+478,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,62fbdda6e4b5a034b71296f8,3_H_Medications_6
+479,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,5b197b8088ee7400012ae154,3_H_Medications_6
+480,AI_or_Human,Correct,1,3.9,High Accuracy AI,6107695b30abc8ceb5ac197b,3_H_Medications_6
+481,AI_or_Human,Correct,1,4.5,High Accuracy AI,5d4345e9be616d0001f786cd,3_H_Medications_6
+482,AI_or_Human,Incorrect,0,2.8,High Accuracy AI,5cae4ab76818400015d4e4ef,3_H_Medications_6
+483,AI_or_Human,Correct,1,3.3,High Accuracy AI,6060a822ebad58844bb482f1,3_H_Preventative_6
+484,AI_or_Human,Correct,1,4.0,High Accuracy AI,627ac48d922ee827a0d8de84,3_H_Preventative_6
+485,AI_or_Human,Correct,1,5.0,High Accuracy AI,5e8a3f722cea2006283e0e45,3_H_Preventative_6
+486,AI_or_Human,Correct,1,5.0,High Accuracy AI,5c0f1cf4f3027300014b606f,3_H_Preventative_6
+487,AI_or_Human,Correct,1,3.0,High Accuracy AI,631278690a39c26a19d394a0,3_H_Preventative_6
+488,AI_or_Human,Correct,1,4.5,High Accuracy AI,55a9f6a1fdf99b2d81b5295f,3_H_Preventative_6
+489,AI_or_Human,Correct,1,4.0,High Accuracy AI,63d5528c99d44c28a0f4040e,3_H_Preventative_6
+490,AI_or_Human,Correct,1,4.5,High Accuracy AI,61534251f98a9e4929d81c2b,3_H_Preventative_6
+491,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d9ae3ff9d2a700014869bcb,3_H_Preventative_6
+492,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5c4a2bcb4d22460001c5da97,3_H_Procedures_6
+493,AI_or_Human,Correct,1,4.1,High Accuracy AI,60fd703323341ff48a496d12,3_H_Procedures_6
+494,AI_or_Human,Correct,1,3.9,High Accuracy AI,5bdbf2d92562330001b8d056,3_H_Procedures_6
+495,AI_or_Human,Correct,1,1.3,High Accuracy AI,615d051e2366aeb051acb734,3_H_Procedures_6
+496,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,6106f6e22517f1e7cb3ff868,3_H_Procedures_6
+497,AI_or_Human,Incorrect,0,4.5,High Accuracy AI,62fbdda6e4b5a034b71296f8,3_H_Procedures_6
+498,AI_or_Human,Correct,1,3.0,High Accuracy AI,60368a80844cd3d1a83d0123,3_H_Procedures_6
+499,AI_or_Human,Incorrect,0,4.9,High Accuracy AI,6234bc51939438b05a4adfb9,3_H_Procedures_6
+500,AI_or_Human,Incorrect,0,3.3,High Accuracy AI,5c492c7167b61b000190bfe8,3_H_Procedures_6
+501,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,60fcd0f990314dce9c243fefv,3_H_Procedures_6
+502,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,6150b569f783a47ea40a79a4,3_H_Procedures_6
+503,AI_or_Human,Correct,1,5.0,High Accuracy AI,5c4a2bcb4d22460001c5da97,3_H_Recovery_6
+504,AI_or_Human,Correct,1,5.0,High Accuracy AI,614e7595b135a4c4656cf557,3_H_Recovery_6
+505,AI_or_Human,Incorrect,0,1.5,High Accuracy AI,61452f580953ba50efed1036,3_H_Recovery_6
+506,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,5a1f27b8fe645f0001ea0c9e,3_H_Recovery_6
+507,AI_or_Human,Correct,1,5.0,High Accuracy AI,5ef32f0aeb0c9103d56a8558,3_H_Recovery_6
+508,AI_or_Human,Correct,1,3.9,High Accuracy AI,62d353684494ab8119aa42d8,3_H_Recovery_6
+509,AI_or_Human,Correct,1,4.3,High Accuracy AI,62728c148af5805feea46dc8,3_H_Recovery_6
+510,AI_or_Human,Correct,1,5.0,High Accuracy AI,60674e08ad872b4cd378a9df,3_H_Recovery_6
+511,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d5606cd4171ec00182e2b15,3_H_Recovery_6
+512,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,60b4a8a01d08a9bfb5f1e408,3_H_Recovery_6
+513,AI_or_Human,Correct,1,4.0,High Accuracy AI,5c492c7167b61b000190bfe8,3_H_Recovery_6
+514,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,5b0ce8bb9663ee00014597fb,3_H_Recovery_6
+515,AI_or_Human,Correct,1,3.7,High Accuracy AI,5c40134b1580e900012320ab,3_H_Recovery_6
+516,AI_or_Human,Correct,1,3.7,High Accuracy AI,5ee00ba7431cdf357dca02ab,3_H_Recovery_6
+517,AI_or_Human,Correct,1,4.1,High Accuracy AI,63d7bf544bb172f5766a3791,3_H_Recovery_6
+518,AI_or_Human,Correct,1,4.6,High Accuracy AI,5f47e6376aa63923f3804e3b,3_H_Recovery_6
+519,AI_or_Human,Correct,1,4.5,High Accuracy AI,60debc4045d5ce331ba7647c,4_H_Conditions_6
+520,AI_or_Human,Correct,1,4.0,High Accuracy AI,614e7595b135a4c4656cf557,4_H_Conditions_6
+521,AI_or_Human,Correct,1,2.0,High Accuracy AI,627ac48d922ee827a0d8de84,4_H_Conditions_6
+522,AI_or_Human,Correct,1,1.3,High Accuracy AI,61452f580953ba50efed1036,4_H_Conditions_6
+523,AI_or_Human,Correct,1,3.6,High Accuracy AI,5efc93cee5498304e29af363,4_H_Conditions_6
+524,AI_or_Human,Correct,1,3.2,High Accuracy AI,6329c416685018cb5b6bb17c,4_H_Conditions_6
+525,AI_or_Human,Incorrect,0,4.5,High Accuracy AI,62fbdda6e4b5a034b71296f8,4_H_Conditions_6
+526,AI_or_Human,Correct,1,4.4,High Accuracy AI,61158ba946af0dc7c3a6c5fd,4_H_Conditions_6
+527,AI_or_Human,Correct,1,2.2,High Accuracy AI,60fcd0f990314dce9c243fefv,4_H_Conditions_6
+528,AI_or_Human,Correct,1,4.0,High Accuracy AI,5d9ae3ff9d2a700014869bcb,4_H_Conditions_6
+529,AI_or_Human,Correct,1,3.9,High Accuracy AI,62b496ea7c06f67ea068d0d3,4_H_Conditions_6
+530,AI_or_Human,Correct,1,3.0,High Accuracy AI,57b560e4a18afd00013e0579,4_H_Diagnostics_6
+531,AI_or_Human,Correct,1,1.6,High Accuracy AI,61452f580953ba50efed1036,4_H_Diagnostics_6
+532,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,5c0f1cf4f3027300014b606f,4_H_Diagnostics_6
+533,AI_or_Human,Correct,1,3.9,High Accuracy AI,581b738a930a280001062c6a,4_H_Diagnostics_6
+534,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5a1f27b8fe645f0001ea0c9e,4_H_Diagnostics_6
+535,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5ea47bda5b1a9807ed89eb76,4_H_Diagnostics_6
+536,AI_or_Human,Correct,1,4.0,High Accuracy AI,5ef00061e45c1f1988455df5,4_H_Diagnostics_6
+537,AI_or_Human,Correct,1,3.7,High Accuracy AI,5d0d16d991270800010b7dd7,4_H_Diagnostics_6
+538,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,62dc292b3a585ccfd11f9bc9,4_H_Diagnostics_6
+539,AI_or_Human,Correct,1,3.0,High Accuracy AI,54e32a60fdf99b3eae9de85b,4_H_Diagnostics_6
+540,AI_or_Human,Correct,1,4.1,High Accuracy AI,5ede06165f5ead017ee49f05,4_H_Diagnostics_6
+541,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,6329c416685018cb5b6bb17c,4_H_Diagnostics_6
+542,AI_or_Human,Correct,1,2.5,High Accuracy AI,63d5528c99d44c28a0f4040e,4_H_Diagnostics_6
+543,AI_or_Human,Incorrect,0,4.9,High Accuracy AI,6234bc51939438b05a4adfb9,4_H_Diagnostics_6
+544,AI_or_Human,Incorrect,0,2.0,High Accuracy AI,602348484d326a1c5aa80bb7,4_H_Diagnostics_6
+545,AI_or_Human,Correct,1,4.4,High Accuracy AI,63d7bf544bb172f5766a3791,4_H_Diagnostics_6
+546,AI_or_Human,Correct,1,4.1,High Accuracy AI,62786f21e2cc1d6adeea0a79,4_H_Medications_6
+547,AI_or_Human,Incorrect,0,4.3,High Accuracy AI,62e04413fd91f451e42d558d,4_H_Medications_6
+548,AI_or_Human,Correct,1,5.0,High Accuracy AI,5ef32f0aeb0c9103d56a8558,4_H_Medications_6
+549,AI_or_Human,Correct,1,4.2,High Accuracy AI,62dc292b3a585ccfd11f9bc9,4_H_Medications_6
+550,AI_or_Human,Correct,1,3.0,High Accuracy AI,5db06709e8d5b50019c3bd88,4_H_Medications_6
+551,AI_or_Human,Correct,1,4.0,High Accuracy AI,5c492c7167b61b000190bfe8,4_H_Medications_6
+552,AI_or_Human,Correct,1,4.4,High Accuracy AI,5cb62e9293342300017a72a1,4_H_Medications_6
+553,AI_or_Human,Correct,1,3.8,High Accuracy AI,62b496ea7c06f67ea068d0d3,4_H_Medications_6
+554,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5f94a8e7fa8c422fc88940b0,4_H_Preventative_6
+555,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d0d16d991270800010b7dd7,4_H_Preventative_6
+556,AI_or_Human,Correct,1,2.6,High Accuracy AI,62dc292b3a585ccfd11f9bc9,4_H_Preventative_6
+557,AI_or_Human,Correct,1,3.7,High Accuracy AI,5ede06165f5ead017ee49f05,4_H_Preventative_6
+558,AI_or_Human,Correct,1,4.0,High Accuracy AI,6108ab36d796e24e26159f5e,4_H_Preventative_6
+559,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,614ca018863895a0b6724719,4_H_Preventative_6
+560,AI_or_Human,Correct,1,3.5,High Accuracy AI,5c492c7167b61b000190bfe8,4_H_Preventative_6
+561,AI_or_Human,Correct,1,3.3,High Accuracy AI,5cba534ff7b6150017add408,4_H_Preventative_6
+562,AI_or_Human,Correct,1,4.5,High Accuracy AI,582879857e8aef000152fba4,4_H_Preventative_6
+563,AI_or_Human,Correct,1,4.1,High Accuracy AI,63d7bf544bb172f5766a3791,4_H_Preventative_6
+564,AI_or_Human,Correct,1,4.1,High Accuracy AI,60debc4045d5ce331ba7647c,4_H_Procedures_6
+565,AI_or_Human,Correct,1,5.0,High Accuracy AI,6310aabfd6cf4e113f799793,4_H_Procedures_6
+566,AI_or_Human,Correct,1,2.0,High Accuracy AI,627ac48d922ee827a0d8de84,4_H_Procedures_6
+567,AI_or_Human,Incorrect,0,1.6,High Accuracy AI,61452f580953ba50efed1036,4_H_Procedures_6
+568,AI_or_Human,Incorrect,0,2.7,High Accuracy AI,5efc93cee5498304e29af363,4_H_Procedures_6
+569,AI_or_Human,Incorrect,0,3.9,High Accuracy AI,5cc22481f6ef910019e5120f,4_H_Procedures_6
+570,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,6132cc931d18eb3ce734accf,4_H_Procedures_6
+571,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,5d0d16d991270800010b7dd7,4_H_Procedures_6
+572,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,60fedf00b3d67381229eb456,4_H_Procedures_6
+573,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5b197b8088ee7400012ae154,4_H_Procedures_6
+574,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,63d7bf544bb172f5766a3791,4_H_Procedures_6
+575,AI_or_Human,Correct,1,4.5,High Accuracy AI,60b7e08463067cb8330e0d8d,4_H_Recovery_6
+576,AI_or_Human,Correct,1,3.0,High Accuracy AI,5bd6656a669ee1000145304a,4_H_Recovery_6
+577,AI_or_Human,Correct,1,2.7,High Accuracy AI,61115b41f830b1e539d612bf,4_H_Recovery_6
+578,AI_or_Human,Correct,1,2.5,High Accuracy AI,63141c5b0efc638905a2702a,4_H_Recovery_6
+579,AI_or_Human,Correct,1,5.0,High Accuracy AI,5ca6c71383762200151a4a20,4_H_Recovery_6
+580,AI_or_Human,Correct,1,3.7,High Accuracy AI,61097e0464a4a922602d495b,4_H_Recovery_6
+581,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d41e832b0ca7200169d857e,4_H_Recovery_6
+582,AI_or_Human,Incorrect,0,2.0,High Accuracy AI,5d9ae3ff9d2a700014869bcb,4_H_Recovery_6
+583,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5a5e94a7eedc32000142cd08,5_H_Conditions_6
+584,AI_or_Human,Correct,1,2.8,High Accuracy AI,5bd6656a669ee1000145304a,5_H_Conditions_6
+585,AI_or_Human,Correct,1,3.7,High Accuracy AI,5bdbf2d92562330001b8d056,5_H_Conditions_6
+586,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5ef00061e45c1f1988455df5,5_H_Conditions_6
+587,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,54e32a60fdf99b3eae9de85b,5_H_Conditions_6
+588,AI_or_Human,Correct,1,4.8,High Accuracy AI,5ca6c71383762200151a4a20,5_H_Conditions_6
+589,AI_or_Human,Correct,1,3.8,High Accuracy AI,55a9f6a1fdf99b2d81b5295f,5_H_Conditions_6
+590,AI_or_Human,Correct,1,4.0,High Accuracy AI,63cd7b78fff71624a85b294f,5_H_Conditions_6
+591,AI_or_Human,Incorrect,0,3.1,High Accuracy AI,5c40134b1580e900012320ab,5_H_Conditions_6
+592,AI_or_Human,Correct,1,4.1,High Accuracy AI,582879857e8aef000152fba4,5_H_Conditions_6
+593,AI_or_Human,Incorrect,0,3.8,High Accuracy AI,5cae4ab76818400015d4e4ef,5_H_Conditions_6
+594,AI_or_Human,Correct,1,3.5,High Accuracy AI,5a5e94a7eedc32000142cd08,5_H_Diagnostics_6
+595,AI_or_Human,Correct,1,3.2,High Accuracy AI,5cc22481f6ef910019e5120f,5_H_Diagnostics_6
+596,AI_or_Human,Correct,1,3.8,High Accuracy AI,5cb62e9293342300017a72a1,5_H_Diagnostics_6
+597,AI_or_Human,Correct,1,2.0,High Accuracy AI,6107695b30abc8ceb5ac197b,5_H_Diagnostics_6
+598,AI_or_Human,Incorrect,0,3.1,High Accuracy AI,62a13f4b85d80af5340feff5,5_H_Medications_6
+599,AI_or_Human,Correct,1,5.0,High Accuracy AI,6310aabfd6cf4e113f799793,5_H_Medications_6
+600,AI_or_Human,Incorrect,0,3.2,High Accuracy AI,5c0f1cf4f3027300014b606f,5_H_Medications_6
+601,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,54e32a60fdf99b3eae9de85b,5_H_Medications_6
+602,AI_or_Human,Correct,1,3.5,High Accuracy AI,6329c416685018cb5b6bb17c,5_H_Medications_6
+603,AI_or_Human,Correct,1,5.0,High Accuracy AI,615dbec57d764bf5ab0a56e5,5_H_Medications_6
+604,AI_or_Human,Correct,1,4.8,High Accuracy AI,5d41e832b0ca7200169d857e,5_H_Medications_6
+605,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,5cba534ff7b6150017add408,5_H_Medications_6
+606,AI_or_Human,Correct,1,1.6,High Accuracy AI,602348484d326a1c5aa80bb7,5_H_Medications_6
+607,AI_or_Human,Incorrect,0,4.1,High Accuracy AI,60debc4045d5ce331ba7647c,5_H_Preventative_6
+608,AI_or_Human,Correct,1,4.1,High Accuracy AI,60bc4ab6673a043c66657cd5,5_H_Preventative_6
+609,AI_or_Human,Incorrect,0,3.9,High Accuracy AI,61077db18fe03e56b5f30523,5_H_Preventative_6
+610,AI_or_Human,Correct,1,2.2,High Accuracy AI,5efc93cee5498304e29af363,5_H_Preventative_6
+611,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5cc22481f6ef910019e5120f,5_H_Preventative_6
+612,AI_or_Human,Correct,1,4.2,High Accuracy AI,5f7e4fbc36d39211c80599fe,5_H_Preventative_6
+613,AI_or_Human,Correct,1,4.5,High Accuracy AI,63c0e405027c09642621327f,5_H_Preventative_6
+614,AI_or_Human,Correct,1,4.1,High Accuracy AI,6106f6e22517f1e7cb3ff868,5_H_Preventative_6
+615,AI_or_Human,Correct,1,5.0,High Accuracy AI,60883e078fa7828e99acb69a,5_H_Preventative_6
+616,AI_or_Human,Correct,1,5.0,High Accuracy AI,5d4345e9be616d0001f786cd,5_H_Preventative_6
+617,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,6060a822ebad58844bb482f1,5_H_Procedures_6
+618,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,62e04413fd91f451e42d558d,5_H_Procedures_6
+619,AI_or_Human,Incorrect,0,3.3,High Accuracy AI,5bd6656a669ee1000145304a,5_H_Procedures_6
+620,AI_or_Human,Incorrect,0,3.5,High Accuracy AI,5ea47bda5b1a9807ed89eb76,5_H_Procedures_6
+621,AI_or_Human,Incorrect,0,4.2,High Accuracy AI,60674e08ad872b4cd378a9df,5_H_Procedures_6
+622,AI_or_Human,Incorrect,0,1.6,High Accuracy AI,55a9f6a1fdf99b2d81b5295f,5_H_Procedures_6
+623,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,61534251f98a9e4929d81c2b,5_H_Procedures_6
+624,AI_or_Human,Incorrect,0,2.0,High Accuracy AI,602348484d326a1c5aa80bb7,5_H_Procedures_6
+625,AI_or_Human,Incorrect,0,5.0,High Accuracy AI,5a5e94a7eedc32000142cd08,5_H_Recovery_6
+626,AI_or_Human,Correct,1,2.3,High Accuracy AI,5e8a3f722cea2006283e0e45,5_H_Recovery_6
+627,AI_or_Human,Incorrect,0,3.2,High Accuracy AI,581b738a930a280001062c6a,5_H_Recovery_6
+628,AI_or_Human,Correct,1,4.1,High Accuracy AI,61141ef53317a3f90b098b66,5_H_Recovery_6
+629,AI_or_Human,Correct,1,3.0,High Accuracy AI,5ea47bda5b1a9807ed89eb76,5_H_Recovery_6
+630,AI_or_Human,Incorrect,0,4.4,High Accuracy AI,5d0d16d991270800010b7dd7,5_H_Recovery_6
+631,AI_or_Human,Incorrect,0,4.0,High Accuracy AI,5fb08ec5ddc19949a58f5a4f,5_H_Recovery_6
+632,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5ede06165f5ead017ee49f05,5_H_Recovery_6
+633,AI_or_Human,Incorrect,0,4.6,High Accuracy AI,5db06709e8d5b50019c3bd88,5_H_Recovery_6
+634,AI_or_Human,Incorrect,0,3.0,High Accuracy AI,5c113ae4b7fb2f00011a6b7e,5_H_Recovery_6
+635,AI_or_Human,Incorrect,0,4.3,High Accuracy AI,614ca018863895a0b6724719,5_H_Recovery_6
+636,AI_or_Human,Correct,1,3.4,High Accuracy AI,5cb62e9293342300017a72a1,5_H_Recovery_6
+637,AI_or_Human,Incorrect,0,3.8,High Accuracy AI,582879857e8aef000152fba4,5_H_Recovery_6
+638,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,55afe01bfdf99b4ba8045bea,1_L_Conditions_6
+639,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5ea47bda5b1a9807ed89eb76,1_L_Conditions_6
+640,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,6310f7cc10a0cd8f6156091f,1_L_Conditions_6
+641,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5ef00061e45c1f1988455df5,1_L_Conditions_6
+642,AI_or_Human,Incorrect,0,3.9,Low Accuracy AI,5d0d16d991270800010b7dd7,1_L_Conditions_6
+643,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,5db06709e8d5b50019c3bd88,1_L_Conditions_6
+644,AI_or_Human,Incorrect,0,2.5,Low Accuracy AI,5c492c7167b61b000190bfe8,1_L_Conditions_6
+645,AI_or_Human,Correct,1,4.4,Low Accuracy AI,62dccf664ff0895a60cfdda2,1_L_Conditions_6
+646,AI_or_Human,Correct,1,4.5,Low Accuracy AI,5a5e94a7eedc32000142cd08,1_L_Diagnostics_6
+647,AI_or_Human,Correct,1,4.3,Low Accuracy AI,6060a822ebad58844bb482f1,1_L_Diagnostics_6
+648,AI_or_Human,Correct,1,3.8,Low Accuracy AI,60fd703323341ff48a496d12,1_L_Diagnostics_6
+649,AI_or_Human,Correct,1,1.9,Low Accuracy AI,627ac48d922ee827a0d8de84,1_L_Diagnostics_6
+650,AI_or_Human,Correct,1,4.4,Low Accuracy AI,612fcbbd5386d9edb42da147,1_L_Diagnostics_6
+651,AI_or_Human,Correct,1,4.5,Low Accuracy AI,60674e08ad872b4cd378a9df,1_L_Diagnostics_6
+652,AI_or_Human,Correct,1,2.5,Low Accuracy AI,5b5a822e1ad8270001c4f28d,1_L_Diagnostics_6
+653,AI_or_Human,Correct,1,3.4,Low Accuracy AI,5c492c7167b61b000190bfe8,1_L_Diagnostics_6
+654,AI_or_Human,Correct,1,4.6,Low Accuracy AI,5b0ce8bb9663ee00014597fb,1_L_Diagnostics_6
+655,AI_or_Human,Correct,1,4.1,Low Accuracy AI,60fcd0f990314dce9c243fefv,1_L_Diagnostics_6
+656,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,582879857e8aef000152fba4,1_L_Diagnostics_6
+657,AI_or_Human,Incorrect,0,3.8,Low Accuracy AI,62b496ea7c06f67ea068d0d3,1_L_Diagnostics_6
+658,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,615dbec57d764bf5ab0a56e5,1_L_Medications_6
+659,AI_or_Human,Correct,1,4.3,Low Accuracy AI,5db06709e8d5b50019c3bd88,1_L_Medications_6
+660,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5c113ae4b7fb2f00011a6b7e,1_L_Medications_6
+661,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,63d7bf544bb172f5766a3791,1_L_Medications_6
+662,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,62b496ea7c06f67ea068d0d3,1_L_Medications_6
+663,AI_or_Human,Correct,1,4.2,Low Accuracy AI,60debc4045d5ce331ba7647c,1_L_Preventative_6
+664,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,60fd703323341ff48a496d12,1_L_Preventative_6
+665,AI_or_Human,Correct,1,2.0,Low Accuracy AI,5e8a3f722cea2006283e0e45,1_L_Preventative_6
+666,AI_or_Human,Correct,1,5.0,Low Accuracy AI,5ef32f0aeb0c9103d56a8558,1_L_Preventative_6
+667,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,5ede06165f5ead017ee49f05,1_L_Preventative_6
+668,AI_or_Human,Correct,1,4.2,Low Accuracy AI,61534251f98a9e4929d81c2b,1_L_Preventative_6
+669,AI_or_Human,Incorrect,0,4.4,Low Accuracy AI,63cd7b78fff71624a85b294f,1_L_Preventative_6
+670,AI_or_Human,Correct,1,4.0,Low Accuracy AI,63d7bf544bb172f5766a3791,1_L_Preventative_6
+671,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5c4a2bcb4d22460001c5da97,1_L_Procedures_6
+672,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,62786f21e2cc1d6adeea0a79,1_L_Procedures_6
+673,AI_or_Human,Incorrect,0,4.6,Low Accuracy AI,5efc93cee5498304e29af363,1_L_Procedures_6
+674,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5ea9d795dec14d13eb7af3d9,1_L_Procedures_6
+675,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,60fcdd362d1a5e0d012b91f0,1_L_Procedures_6
+676,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5ca6c71383762200151a4a20,1_L_Procedures_6
+677,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,615dbec57d764bf5ab0a56e5,1_L_Procedures_6
+678,AI_or_Human,Correct,1,3.0,Low Accuracy AI,61534251f98a9e4929d81c2b,1_L_Procedures_6
+679,AI_or_Human,Correct,1,4.1,Low Accuracy AI,6107695b30abc8ceb5ac197b,1_L_Procedures_6
+680,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5d4345e9be616d0001f786cd,1_L_Procedures_6
+681,AI_or_Human,Correct,1,2.7,Low Accuracy AI,60fd703323341ff48a496d12,1_L_Recovery_6
+682,AI_or_Human,Incorrect,0,3.8,Low Accuracy AI,5cc22481f6ef910019e5120f,1_L_Recovery_6
+683,AI_or_Human,Correct,1,3.1,Low Accuracy AI,5ede06165f5ead017ee49f05,1_L_Recovery_6
+684,AI_or_Human,Correct,1,5.0,Low Accuracy AI,615dbec57d764bf5ab0a56e5,1_L_Recovery_6
+685,AI_or_Human,Incorrect,0,3.6,Low Accuracy AI,6107695b30abc8ceb5ac197b,1_L_Recovery_6
+686,AI_or_Human,Correct,1,3.3,Low Accuracy AI,582879857e8aef000152fba4,1_L_Recovery_6
+687,AI_or_Human,Incorrect,0,4.8,Low Accuracy AI,61003424913c5bc34653feb1,1_L_Recovery_6
+688,AI_or_Human,Incorrect,0,3.4,Low Accuracy AI,61168a8a8f1af03dd4032af4,2_L_Conditions_6
+689,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,61077db18fe03e56b5f30523,2_L_Conditions_6
+690,AI_or_Human,Correct,1,5.0,Low Accuracy AI,63141c5b0efc638905a2702a,2_L_Conditions_6
+691,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5ef32f0aeb0c9103d56a8558,2_L_Conditions_6
+692,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60fcdd362d1a5e0d012b91f0,2_L_Conditions_6
+693,AI_or_Human,Correct,1,5.0,Low Accuracy AI,615d051e2366aeb051acb734,2_L_Conditions_6
+694,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6106f6e22517f1e7cb3ff868,2_L_Conditions_6
+695,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5cba534ff7b6150017add408,2_L_Conditions_6
+696,AI_or_Human,Incorrect,0,4.3,Low Accuracy AI,5f47e6376aa63923f3804e3b,2_L_Conditions_6
+697,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5efc93cee5498304e29af363,2_L_Diagnostics_6
+698,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5d85150104ad7f00180935d1,2_L_Diagnostics_6
+699,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5ea9d795dec14d13eb7af3d9,2_L_Diagnostics_6
+700,AI_or_Human,Incorrect,0,2.1,Low Accuracy AI,6132cc931d18eb3ce734accf,2_L_Diagnostics_6
+701,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5ef00061e45c1f1988455df5,2_L_Diagnostics_6
+702,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,62728c148af5805feea46dc8,2_L_Diagnostics_6
+703,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5ede06165f5ead017ee49f05,2_L_Diagnostics_6
+704,AI_or_Human,Correct,1,2.7,Low Accuracy AI,55a9f6a1fdf99b2d81b5295f,2_L_Diagnostics_6
+705,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6106f6e22517f1e7cb3ff868,2_L_Diagnostics_6
+706,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,60fedf00b3d67381229eb456,2_L_Diagnostics_6
+707,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,6108ab36d796e24e26159f5e,2_L_Diagnostics_6
+708,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,5cba534ff7b6150017add408,2_L_Diagnostics_6
+709,AI_or_Human,Correct,1,4.6,Low Accuracy AI,5d4345e9be616d0001f786cd,2_L_Diagnostics_6
+710,AI_or_Human,Correct,1,3.5,Low Accuracy AI,5d9ae3ff9d2a700014869bcb,2_L_Diagnostics_6
+711,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60b7e08463067cb8330e0d8d,2_L_Medications_6
+712,AI_or_Human,Correct,1,4.0,Low Accuracy AI,6053bbcd2405c3c785ed202c,2_L_Medications_6
+713,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,631278690a39c26a19d394a0,2_L_Medications_6
+714,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,5a1f27b8fe645f0001ea0c9e,2_L_Medications_6
+715,AI_or_Human,Correct,1,4.5,Low Accuracy AI,5ea47bda5b1a9807ed89eb76,2_L_Medications_6
+716,AI_or_Human,Correct,1,5.0,Low Accuracy AI,63c0e405027c09642621327f,2_L_Medications_6
+717,AI_or_Human,Incorrect,0,3.3,Low Accuracy AI,5b5a822e1ad8270001c4f28d,2_L_Medications_6
+718,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6234bc51939438b05a4adfb9,2_L_Medications_6
+719,AI_or_Human,Correct,1,4.2,Low Accuracy AI,5cb62e9293342300017a72a1,2_L_Medications_6
+720,AI_or_Human,Incorrect,0,3.8,Low Accuracy AI,63cd7b78fff71624a85b294f,2_L_Medications_6
+721,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,60b7e08463067cb8330e0d8d,2_L_Preventative_6
+722,AI_or_Human,Incorrect,0,2.8,Low Accuracy AI,627ac48d922ee827a0d8de84,2_L_Preventative_6
+723,AI_or_Human,Correct,1,3.2,Low Accuracy AI,61168a8a8f1af03dd4032af4,2_L_Preventative_6
+724,AI_or_Human,Correct,1,2.7,Low Accuracy AI,61115b41f830b1e539d612bf,2_L_Preventative_6
+725,AI_or_Human,Correct,1,3.3,Low Accuracy AI,581b738a930a280001062c6a,2_L_Preventative_6
+726,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5efc93cee5498304e29af363,2_L_Preventative_6
+727,AI_or_Human,Incorrect,0,2.5,Low Accuracy AI,63141c5b0efc638905a2702a,2_L_Preventative_6
+728,AI_or_Human,Incorrect,0,3.4,Low Accuracy AI,63c0e405027c09642621327f,2_L_Preventative_6
+729,AI_or_Human,Incorrect,0,4.9,Low Accuracy AI,62e04413fd91f451e42d558d,2_L_Procedures_6
+730,AI_or_Human,Incorrect,0,3.2,Low Accuracy AI,581b738a930a280001062c6a,2_L_Procedures_6
+731,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,61141ef53317a3f90b098b66,2_L_Procedures_6
+732,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,55afe01bfdf99b4ba8045bea,2_L_Procedures_6
+733,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,5ea47bda5b1a9807ed89eb76,2_L_Procedures_6
+734,AI_or_Human,Incorrect,0,4.6,Low Accuracy AI,5db06709e8d5b50019c3bd88,2_L_Procedures_6
+735,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,60fedf00b3d67381229eb456,2_L_Procedures_6
+736,AI_or_Human,Incorrect,0,2.0,Low Accuracy AI,60368a80844cd3d1a83d0123,2_L_Procedures_6
+737,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5c113ae4b7fb2f00011a6b7e,2_L_Procedures_6
+738,AI_or_Human,Correct,1,3.1,Low Accuracy AI,5ee00ba7431cdf357dca02ab,2_L_Procedures_6
+739,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6150b569f783a47ea40a79a4,2_L_Procedures_6
+740,AI_or_Human,Incorrect,0,3.2,Low Accuracy AI,5bd6656a669ee1000145304a,2_L_Recovery_6
+741,AI_or_Human,Correct,1,3.6,Low Accuracy AI,5bdbf2d92562330001b8d056,2_L_Recovery_6
+742,AI_or_Human,Correct,1,3.2,Low Accuracy AI,61115b41f830b1e539d612bf,2_L_Recovery_6
+743,AI_or_Human,Correct,1,4.0,Low Accuracy AI,629e633c82ed7bd84fce0f9a,2_L_Recovery_6
+744,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5d85150104ad7f00180935d1,2_L_Recovery_6
+745,AI_or_Human,Incorrect,0,3.2,Low Accuracy AI,62dc292b3a585ccfd11f9bc9,2_L_Recovery_6
+746,AI_or_Human,Correct,1,2.9,Low Accuracy AI,63c0e405027c09642621327f,2_L_Recovery_6
+747,AI_or_Human,Incorrect,0,1.7,Low Accuracy AI,615d051e2366aeb051acb734,2_L_Recovery_6
+748,AI_or_Human,Incorrect,0,3.9,Low Accuracy AI,6108ab36d796e24e26159f5e,2_L_Recovery_6
+749,AI_or_Human,Correct,1,3.8,Low Accuracy AI,5c492c7167b61b000190bfe8,2_L_Recovery_6
+750,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5b0ce8bb9663ee00014597fb,2_L_Recovery_6
+751,AI_or_Human,Correct,1,5.0,Low Accuracy AI,63cd7b78fff71624a85b294f,2_L_Recovery_6
+752,AI_or_Human,Correct,1,4.5,Low Accuracy AI,60883e078fa7828e99acb69a,2_L_Recovery_6
+753,AI_or_Human,Correct,1,5.0,Low Accuracy AI,5d4345e9be616d0001f786cd,2_L_Recovery_6
+754,AI_or_Human,Correct,1,3.7,Low Accuracy AI,5ee00ba7431cdf357dca02ab,2_L_Recovery_6
+755,AI_or_Human,Correct,1,4.5,Low Accuracy AI,5a5e94a7eedc32000142cd08,3_L_Conditions_6
+756,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6310aabfd6cf4e113f799793,3_L_Conditions_6
+757,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5f94a8e7fa8c422fc88940b0,3_L_Conditions_6
+758,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,5c0f1cf4f3027300014b606f,3_L_Conditions_6
+759,AI_or_Human,Correct,1,4.0,Low Accuracy AI,629e633c82ed7bd84fce0f9a,3_L_Conditions_6
+760,AI_or_Human,Correct,1,4.1,Low Accuracy AI,54e32a60fdf99b3eae9de85b,3_L_Conditions_6
+761,AI_or_Human,Correct,1,5.0,Low Accuracy AI,5ca6c71383762200151a4a20,3_L_Conditions_6
+762,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,615dbec57d764bf5ab0a56e5,3_L_Conditions_6
+763,AI_or_Human,Incorrect,0,3.7,Low Accuracy AI,5d4345e9be616d0001f786cd,3_L_Conditions_6
+764,AI_or_Human,Correct,1,4.0,Low Accuracy AI,614e7595b135a4c4656cf557,3_L_Diagnostics_6
+765,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,57b560e4a18afd00013e0579,3_L_Diagnostics_6
+766,AI_or_Human,Correct,1,3.1,Low Accuracy AI,62a13f4b85d80af5340feff5,3_L_Diagnostics_6
+767,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5bd6656a669ee1000145304a,3_L_Diagnostics_6
+768,AI_or_Human,Correct,1,2.4,Low Accuracy AI,5bdbf2d92562330001b8d056,3_L_Diagnostics_6
+769,AI_or_Human,Incorrect,0,3.7,Low Accuracy AI,61141ef53317a3f90b098b66,3_L_Diagnostics_6
+770,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,629e633c82ed7bd84fce0f9a,3_L_Diagnostics_6
+771,AI_or_Human,Incorrect,0,2.9,Low Accuracy AI,62d353684494ab8119aa42d8,3_L_Diagnostics_6
+772,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60fcdd362d1a5e0d012b91f0,3_L_Diagnostics_6
+773,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5d5606cd4171ec00182e2b15,3_L_Diagnostics_6
+774,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5ca6c71383762200151a4a20,3_L_Diagnostics_6
+775,AI_or_Human,Correct,1,2.5,Low Accuracy AI,60368a80844cd3d1a83d0123,3_L_Diagnostics_6
+776,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6234bc51939438b05a4adfb9,3_L_Diagnostics_6
+777,AI_or_Human,Correct,1,4.2,Low Accuracy AI,57d6b1718e00270001b430cc,3_L_Diagnostics_6
+778,AI_or_Human,Correct,1,3.9,Low Accuracy AI,5ee00ba7431cdf357dca02ab,3_L_Diagnostics_6
+779,AI_or_Human,Correct,1,4.1,Low Accuracy AI,61003424913c5bc34653feb1,3_L_Diagnostics_6
+780,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,60debc4045d5ce331ba7647c,3_L_Medications_6
+781,AI_or_Human,Correct,1,4.2,Low Accuracy AI,60fd703323341ff48a496d12,3_L_Medications_6
+782,AI_or_Human,Correct,1,5.0,Low Accuracy AI,62a13f4b85d80af5340feff5,3_L_Medications_6
+783,AI_or_Human,Correct,1,4.8,Low Accuracy AI,60bc4ab6673a043c66657cd5,3_L_Medications_6
+784,AI_or_Human,Correct,1,3.5,Low Accuracy AI,61168a8a8f1af03dd4032af4,3_L_Medications_6
+785,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5c0f1cf4f3027300014b606f,3_L_Medications_6
+786,AI_or_Human,Correct,1,4.1,Low Accuracy AI,55afe01bfdf99b4ba8045bea,3_L_Medications_6
+787,AI_or_Human,Correct,1,4.9,Low Accuracy AI,5cc22481f6ef910019e5120f,3_L_Medications_6
+788,AI_or_Human,Correct,1,4.1,Low Accuracy AI,6310f7cc10a0cd8f6156091f,3_L_Medications_6
+789,AI_or_Human,Correct,1,4.8,Low Accuracy AI,6132cc931d18eb3ce734accf,3_L_Medications_6
+790,AI_or_Human,Correct,1,4.1,Low Accuracy AI,62728c148af5805feea46dc8,3_L_Medications_6
+791,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60fcdd362d1a5e0d012b91f0,3_L_Medications_6
+792,AI_or_Human,Correct,1,3.6,Low Accuracy AI,615d051e2366aeb051acb734,3_L_Medications_6
+793,AI_or_Human,Correct,1,4.5,Low Accuracy AI,63d5528c99d44c28a0f4040e,3_L_Medications_6
+794,AI_or_Human,Correct,1,3.3,Low Accuracy AI,614ca018863895a0b6724719,3_L_Medications_6
+795,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5b0ce8bb9663ee00014597fb,3_L_Medications_6
+796,AI_or_Human,Correct,1,4.3,Low Accuracy AI,60883e078fa7828e99acb69a,3_L_Medications_6
+797,AI_or_Human,Correct,1,4.5,Low Accuracy AI,5c40134b1580e900012320ab,3_L_Medications_6
+798,AI_or_Human,Correct,1,3.9,Low Accuracy AI,5ee00ba7431cdf357dca02ab,3_L_Medications_6
+799,AI_or_Human,Correct,1,3.5,Low Accuracy AI,5cc22481f6ef910019e5120f,3_L_Preventative_6
+800,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,6132cc931d18eb3ce734accf,3_L_Preventative_6
+801,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,62728c148af5805feea46dc8,3_L_Preventative_6
+802,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5db06709e8d5b50019c3bd88,3_L_Preventative_6
+803,AI_or_Human,Incorrect,0,3.9,Low Accuracy AI,5b5a822e1ad8270001c4f28d,3_L_Preventative_6
+804,AI_or_Human,Correct,1,2.5,Low Accuracy AI,60368a80844cd3d1a83d0123,3_L_Preventative_6
+805,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5c113ae4b7fb2f00011a6b7e,3_L_Preventative_6
+806,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,5cba534ff7b6150017add408,3_L_Preventative_6
+807,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,5d9ae3ff9d2a700014869bcb,3_L_Preventative_6
+808,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5e8a3f722cea2006283e0e45,3_L_Procedures_6
+809,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,629e633c82ed7bd84fce0f9a,3_L_Procedures_6
+810,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,5a1f27b8fe645f0001ea0c9e,3_L_Procedures_6
+811,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5d85150104ad7f00180935d1,3_L_Procedures_6
+812,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,612fcbbd5386d9edb42da147,3_L_Procedures_6
+813,AI_or_Human,Correct,1,3.2,Low Accuracy AI,6310f7cc10a0cd8f6156091f,3_L_Procedures_6
+814,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,6132cc931d18eb3ce734accf,3_L_Procedures_6
+815,AI_or_Human,Correct,1,3.6,Low Accuracy AI,61097e0464a4a922602d495b,3_L_Procedures_6
+816,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,62fbdda6e4b5a034b71296f8,3_L_Procedures_6
+817,AI_or_Human,Incorrect,0,4.9,Low Accuracy AI,5cba534ff7b6150017add408,3_L_Procedures_6
+818,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,57b560e4a18afd00013e0579,3_L_Recovery_6
+819,AI_or_Human,Incorrect,0,2.0,Low Accuracy AI,627ac48d922ee827a0d8de84,3_L_Recovery_6
+820,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5f94a8e7fa8c422fc88940b0,3_L_Recovery_6
+821,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,61168a8a8f1af03dd4032af4,3_L_Recovery_6
+822,AI_or_Human,Correct,1,3.8,Low Accuracy AI,581b738a930a280001062c6a,3_L_Recovery_6
+823,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5a1f27b8fe645f0001ea0c9e,3_L_Recovery_6
+824,AI_or_Human,Incorrect,0,3.3,Low Accuracy AI,6310f7cc10a0cd8f6156091f,3_L_Recovery_6
+825,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5ea9d795dec14d13eb7af3d9,3_L_Recovery_6
+826,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5ef32f0aeb0c9103d56a8558,3_L_Recovery_6
+827,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5ef00061e45c1f1988455df5,3_L_Recovery_6
+828,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5d5606cd4171ec00182e2b15,3_L_Recovery_6
+829,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5ca6c71383762200151a4a20,3_L_Recovery_6
+830,AI_or_Human,Incorrect,0,3.4,Low Accuracy AI,61097e0464a4a922602d495b,3_L_Recovery_6
+831,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,6151c6e6fe892583908fc36f,3_L_Recovery_6
+832,AI_or_Human,Correct,1,2.9,Low Accuracy AI,5d41e832b0ca7200169d857e,3_L_Recovery_6
+833,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,62786f21e2cc1d6adeea0a79,4_L_Conditions_6
+834,AI_or_Human,Correct,1,4.0,Low Accuracy AI,6053bbcd2405c3c785ed202c,4_L_Conditions_6
+835,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6060a822ebad58844bb482f1,4_L_Conditions_6
+836,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,60bc4ab6673a043c66657cd5,4_L_Conditions_6
+837,AI_or_Human,Correct,1,2.3,Low Accuracy AI,61452f580953ba50efed1036,4_L_Conditions_6
+838,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5efc93cee5498304e29af363,4_L_Conditions_6
+839,AI_or_Human,Correct,1,4.6,Low Accuracy AI,60674e08ad872b4cd378a9df,4_L_Conditions_6
+840,AI_or_Human,Correct,1,4.4,Low Accuracy AI,5f7e4fbc36d39211c80599fe,4_L_Conditions_6
+841,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5d5606cd4171ec00182e2b15,4_L_Conditions_6
+842,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,6151c6e6fe892583908fc36f,4_L_Conditions_6
+843,AI_or_Human,Correct,1,2.4,Low Accuracy AI,60b4a8a01d08a9bfb5f1e408,4_L_Conditions_6
+844,AI_or_Human,Correct,1,4.5,Low Accuracy AI,61158ba946af0dc7c3a6c5fd,4_L_Conditions_6
+845,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,614ca018863895a0b6724719,4_L_Conditions_6
+846,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5b0ce8bb9663ee00014597fb,4_L_Conditions_6
+847,AI_or_Human,Correct,1,5.0,Low Accuracy AI,57d6b1718e00270001b430cc,4_L_Conditions_6
+848,AI_or_Human,Correct,1,5.0,Low Accuracy AI,5cae4ab76818400015d4e4ef,4_L_Conditions_6
+849,AI_or_Human,Correct,1,4.0,Low Accuracy AI,60b7e08463067cb8330e0d8d,4_L_Diagnostics_6
+850,AI_or_Human,Incorrect,0,4.6,Low Accuracy AI,62e04413fd91f451e42d558d,4_L_Diagnostics_6
+851,AI_or_Human,Correct,1,4.6,Low Accuracy AI,60bc4ab6673a043c66657cd5,4_L_Diagnostics_6
+852,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,61168a8a8f1af03dd4032af4,4_L_Diagnostics_6
+853,AI_or_Human,Incorrect,0,1.9,Low Accuracy AI,5e8a3f722cea2006283e0e45,4_L_Diagnostics_6
+854,AI_or_Human,Incorrect,0,2.7,Low Accuracy AI,5cc22481f6ef910019e5120f,4_L_Diagnostics_6
+855,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,5fb08ec5ddc19949a58f5a4f,4_L_Diagnostics_6
+856,AI_or_Human,Correct,1,4.0,Low Accuracy AI,6329c416685018cb5b6bb17c,4_L_Diagnostics_6
+857,AI_or_Human,Correct,1,3.6,Low Accuracy AI,615d051e2366aeb051acb734,4_L_Diagnostics_6
+858,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60b4a8a01d08a9bfb5f1e408,4_L_Diagnostics_6
+859,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,63d5528c99d44c28a0f4040e,4_L_Diagnostics_6
+860,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,61158ba946af0dc7c3a6c5fd,4_L_Diagnostics_6
+861,AI_or_Human,Incorrect,0,2.8,Low Accuracy AI,5c40134b1580e900012320ab,4_L_Diagnostics_6
+862,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,6150b569f783a47ea40a79a4,4_L_Diagnostics_6
+863,AI_or_Human,Incorrect,0,4.9,Low Accuracy AI,57b560e4a18afd00013e0579,4_L_Medications_6
+864,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5e8a3f722cea2006283e0e45,4_L_Medications_6
+865,AI_or_Human,Correct,1,2.6,Low Accuracy AI,61141ef53317a3f90b098b66,4_L_Medications_6
+866,AI_or_Human,Correct,1,4.2,Low Accuracy AI,5fb08ec5ddc19949a58f5a4f,4_L_Medications_6
+867,AI_or_Human,Correct,1,4.0,Low Accuracy AI,61097e0464a4a922602d495b,4_L_Medications_6
+868,AI_or_Human,Correct,1,4.0,Low Accuracy AI,6329c416685018cb5b6bb17c,4_L_Medications_6
+869,AI_or_Human,Correct,1,3.4,Low Accuracy AI,55a9f6a1fdf99b2d81b5295f,4_L_Medications_6
+870,AI_or_Human,Correct,1,3.7,Low Accuracy AI,6108ab36d796e24e26159f5e,4_L_Medications_6
+871,AI_or_Human,Incorrect,0,3.7,Low Accuracy AI,60fcd0f990314dce9c243fefv,4_L_Medications_6
+872,AI_or_Human,Incorrect,0,2.2,Low Accuracy AI,6107695b30abc8ceb5ac197b,4_L_Medications_6
+873,AI_or_Human,Correct,1,5.0,Low Accuracy AI,5d4345e9be616d0001f786cd,4_L_Medications_6
+874,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,61003424913c5bc34653feb1,4_L_Medications_6
+875,AI_or_Human,Incorrect,0,4.6,Low Accuracy AI,5cae4ab76818400015d4e4ef,4_L_Medications_6
+876,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5a5e94a7eedc32000142cd08,4_L_Preventative_6
+877,AI_or_Human,Correct,1,3.0,Low Accuracy AI,60bc4ab6673a043c66657cd5,4_L_Preventative_6
+878,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6310aabfd6cf4e113f799793,4_L_Preventative_6
+879,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5f94a8e7fa8c422fc88940b0,4_L_Preventative_6
+880,AI_or_Human,Correct,1,3.7,Low Accuracy AI,61077db18fe03e56b5f30523,4_L_Preventative_6
+881,AI_or_Human,Incorrect,0,2.0,Low Accuracy AI,61141ef53317a3f90b098b66,4_L_Preventative_6
+882,AI_or_Human,Correct,1,4.7,Low Accuracy AI,612fcbbd5386d9edb42da147,4_L_Preventative_6
+883,AI_or_Human,Correct,1,5.0,Low Accuracy AI,615dbec57d764bf5ab0a56e5,4_L_Preventative_6
+884,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6151c6e6fe892583908fc36f,4_L_Preventative_6
+885,AI_or_Human,Correct,1,5.0,Low Accuracy AI,6106f6e22517f1e7cb3ff868,4_L_Preventative_6
+886,AI_or_Human,Correct,1,4.9,Low Accuracy AI,6234bc51939438b05a4adfb9,4_L_Preventative_6
+887,AI_or_Human,Correct,1,4.7,Low Accuracy AI,5b197b8088ee7400012ae154,4_L_Preventative_6
+888,AI_or_Human,Correct,1,2.2,Low Accuracy AI,6107695b30abc8ceb5ac197b,4_L_Preventative_6
+889,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5cae4ab76818400015d4e4ef,4_L_Preventative_6
+890,AI_or_Human,Correct,1,4.0,Low Accuracy AI,57b560e4a18afd00013e0579,4_L_Procedures_6
+891,AI_or_Human,Correct,1,2.6,Low Accuracy AI,61077db18fe03e56b5f30523,4_L_Procedures_6
+892,AI_or_Human,Incorrect,0,2.5,Low Accuracy AI,62dc292b3a585ccfd11f9bc9,4_L_Procedures_6
+893,AI_or_Human,Correct,1,4.1,Low Accuracy AI,62728c148af5805feea46dc8,4_L_Procedures_6
+894,AI_or_Human,Incorrect,0,3.7,Low Accuracy AI,63c0e405027c09642621327f,4_L_Procedures_6
+895,AI_or_Human,Correct,1,3.7,Low Accuracy AI,615d051e2366aeb051acb734,4_L_Procedures_6
+896,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5d41e832b0ca7200169d857e,4_L_Procedures_6
+897,AI_or_Human,Correct,1,4.0,Low Accuracy AI,63d5528c99d44c28a0f4040e,4_L_Procedures_6
+898,AI_or_Human,Correct,1,4.8,Low Accuracy AI,6234bc51939438b05a4adfb9,4_L_Procedures_6
+899,AI_or_Human,Correct,1,3.2,Low Accuracy AI,5b0ce8bb9663ee00014597fb,4_L_Procedures_6
+900,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,5b197b8088ee7400012ae154,4_L_Procedures_6
+901,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,62786f21e2cc1d6adeea0a79,4_L_Recovery_6
+902,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,62a13f4b85d80af5340feff5,4_L_Recovery_6
+903,AI_or_Human,Incorrect,0,1.4,Low Accuracy AI,61452f580953ba50efed1036,4_L_Recovery_6
+904,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,5c0f1cf4f3027300014b606f,4_L_Recovery_6
+905,AI_or_Human,Incorrect,0,4.5,Low Accuracy AI,631278690a39c26a19d394a0,4_L_Recovery_6
+906,AI_or_Human,Correct,1,3.5,Low Accuracy AI,5ea47bda5b1a9807ed89eb76,4_L_Recovery_6
+907,AI_or_Human,Correct,1,4.1,Low Accuracy AI,6132cc931d18eb3ce734accf,4_L_Recovery_6
+908,AI_or_Human,Incorrect,0,4.3,Low Accuracy AI,62728c148af5805feea46dc8,4_L_Recovery_6
+909,AI_or_Human,Correct,1,3.8,Low Accuracy AI,55a9f6a1fdf99b2d81b5295f,4_L_Recovery_6
+910,AI_or_Human,Correct,1,4.1,Low Accuracy AI,5db06709e8d5b50019c3bd88,4_L_Recovery_6
+911,AI_or_Human,Incorrect,0,3.9,Low Accuracy AI,60b4a8a01d08a9bfb5f1e408,4_L_Recovery_6
+912,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,60fedf00b3d67381229eb456,4_L_Recovery_6
+913,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,62dccf664ff0895a60cfdda2,4_L_Recovery_6
+914,AI_or_Human,Correct,1,5.0,Low Accuracy AI,57d6b1718e00270001b430cc,4_L_Recovery_6
+915,AI_or_Human,Incorrect,0,4.4,Low Accuracy AI,60fcd0f990314dce9c243fefv,4_L_Recovery_6
+916,AI_or_Human,Correct,1,3.9,Low Accuracy AI,5c40134b1580e900012320ab,4_L_Recovery_6
+917,AI_or_Human,Correct,1,4.2,Low Accuracy AI,63d7bf544bb172f5766a3791,4_L_Recovery_6
+918,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6150b569f783a47ea40a79a4,4_L_Recovery_6
+919,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,60b7e08463067cb8330e0d8d,5_L_Conditions_6
+920,AI_or_Human,Incorrect,0,2.0,Low Accuracy AI,627ac48d922ee827a0d8de84,5_L_Conditions_6
+921,AI_or_Human,Incorrect,0,3.5,Low Accuracy AI,631278690a39c26a19d394a0,5_L_Conditions_6
+922,AI_or_Human,Correct,1,3.5,Low Accuracy AI,62d353684494ab8119aa42d8,5_L_Conditions_6
+923,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,63d5528c99d44c28a0f4040e,5_L_Conditions_6
+924,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,60fedf00b3d67381229eb456,5_L_Conditions_6
+925,AI_or_Human,Incorrect,0,1.8,Low Accuracy AI,6108ab36d796e24e26159f5e,5_L_Conditions_6
+926,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6150b569f783a47ea40a79a4,5_L_Conditions_6
+927,AI_or_Human,Incorrect,0,3.9,Low Accuracy AI,62b496ea7c06f67ea068d0d3,5_L_Conditions_6
+928,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,5c4a2bcb4d22460001c5da97,5_L_Diagnostics_6
+929,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6310aabfd6cf4e113f799793,5_L_Diagnostics_6
+930,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5c0f1cf4f3027300014b606f,5_L_Diagnostics_6
+931,AI_or_Human,Correct,1,4.0,Low Accuracy AI,63141c5b0efc638905a2702a,5_L_Diagnostics_6
+932,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,61534251f98a9e4929d81c2b,5_L_Diagnostics_6
+933,AI_or_Human,Correct,1,5.0,Low Accuracy AI,60883e078fa7828e99acb69a,5_L_Diagnostics_6
+934,AI_or_Human,Incorrect,0,4.9,Low Accuracy AI,62e04413fd91f451e42d558d,5_L_Medications_6
+935,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6310aabfd6cf4e113f799793,5_L_Medications_6
+936,AI_or_Human,Incorrect,0,2.7,Low Accuracy AI,5bdbf2d92562330001b8d056,5_L_Medications_6
+937,AI_or_Human,Incorrect,0,4.1,Low Accuracy AI,581b738a930a280001062c6a,5_L_Medications_6
+938,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,5efc93cee5498304e29af363,5_L_Medications_6
+939,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5d85150104ad7f00180935d1,5_L_Medications_6
+940,AI_or_Human,Incorrect,0,4.4,Low Accuracy AI,60674e08ad872b4cd378a9df,5_L_Medications_6
+941,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,62fbdda6e4b5a034b71296f8,5_L_Medications_6
+942,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,5cba534ff7b6150017add408,5_L_Medications_6
+943,AI_or_Human,Correct,1,4.0,Low Accuracy AI,602348484d326a1c5aa80bb7,5_L_Medications_6
+944,AI_or_Human,Incorrect,0,4.4,Low Accuracy AI,5f47e6376aa63923f3804e3b,5_L_Medications_6
+945,AI_or_Human,Incorrect,0,4.4,Low Accuracy AI,62e04413fd91f451e42d558d,5_L_Preventative_6
+946,AI_or_Human,Incorrect,0,3.1,Low Accuracy AI,62a13f4b85d80af5340feff5,5_L_Preventative_6
+947,AI_or_Human,Correct,1,2.2,Low Accuracy AI,5bd6656a669ee1000145304a,5_L_Preventative_6
+948,AI_or_Human,Correct,1,5.0,Low Accuracy AI,629e633c82ed7bd84fce0f9a,5_L_Preventative_6
+949,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5a1f27b8fe645f0001ea0c9e,5_L_Preventative_6
+950,AI_or_Human,Correct,1,3.0,Low Accuracy AI,5ea47bda5b1a9807ed89eb76,5_L_Preventative_6
+951,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,6310f7cc10a0cd8f6156091f,5_L_Preventative_6
+952,AI_or_Human,Correct,1,3.3,Low Accuracy AI,5ea9d795dec14d13eb7af3d9,5_L_Preventative_6
+953,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,62dc292b3a585ccfd11f9bc9,5_L_Preventative_6
+954,AI_or_Human,Correct,1,4.8,Low Accuracy AI,5cb62e9293342300017a72a1,5_L_Preventative_6
+955,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,62dccf664ff0895a60cfdda2,5_L_Preventative_6
+956,AI_or_Human,Correct,1,5.0,Low Accuracy AI,57d6b1718e00270001b430cc,5_L_Preventative_6
+957,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,5c40134b1580e900012320ab,5_L_Preventative_6
+958,AI_or_Human,Correct,1,3.4,Low Accuracy AI,5ee00ba7431cdf357dca02ab,5_L_Preventative_6
+959,AI_or_Human,Correct,1,3.9,Low Accuracy AI,582879857e8aef000152fba4,5_L_Preventative_6
+960,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6150b569f783a47ea40a79a4,5_L_Preventative_6
+961,AI_or_Human,Correct,1,3.4,Low Accuracy AI,5bdbf2d92562330001b8d056,5_L_Procedures_6
+962,AI_or_Human,Correct,1,2.3,Low Accuracy AI,61115b41f830b1e539d612bf,5_L_Procedures_6
+963,AI_or_Human,Incorrect,0,4.2,Low Accuracy AI,5d0d16d991270800010b7dd7,5_L_Procedures_6
+964,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,54e32a60fdf99b3eae9de85b,5_L_Procedures_6
+965,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,63cd7b78fff71624a85b294f,5_L_Procedures_6
+966,AI_or_Human,Correct,1,4.3,Low Accuracy AI,63d7bf544bb172f5766a3791,5_L_Procedures_6
+967,AI_or_Human,Correct,1,4.0,Low Accuracy AI,5f47e6376aa63923f3804e3b,5_L_Procedures_6
+968,AI_or_Human,Correct,1,3.9,Low Accuracy AI,62b496ea7c06f67ea068d0d3,5_L_Procedures_6
+969,AI_or_Human,Incorrect,0,3.6,Low Accuracy AI,5c4a2bcb4d22460001c5da97,5_L_Recovery_6
+970,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,60b7e08463067cb8330e0d8d,5_L_Recovery_6
+971,AI_or_Human,Incorrect,0,3.8,Low Accuracy AI,6060a822ebad58844bb482f1,5_L_Recovery_6
+972,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,614e7595b135a4c4656cf557,5_L_Recovery_6
+973,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,62e04413fd91f451e42d558d,5_L_Recovery_6
+974,AI_or_Human,Incorrect,0,5.0,Low Accuracy AI,6310aabfd6cf4e113f799793,5_L_Recovery_6
+975,AI_or_Human,Incorrect,0,3.0,Low Accuracy AI,61141ef53317a3f90b098b66,5_L_Recovery_6
+976,AI_or_Human,Incorrect,0,4.7,Low Accuracy AI,612fcbbd5386d9edb42da147,5_L_Recovery_6
+977,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,6329c416685018cb5b6bb17c,5_L_Recovery_6
+978,AI_or_Human,Incorrect,0,4.9,Low Accuracy AI,5b197b8088ee7400012ae154,5_L_Recovery_6
+979,AI_or_Human,Incorrect,0,4.0,Low Accuracy AI,5d9ae3ff9d2a700014869bcb,5_L_Recovery_6
