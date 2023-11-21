@@ -18,7 +18,8 @@ set.seed(42)
 # Medical Response Source: High Accuracy AI-Generated Responses
 
 # read in data and check
-dat_Conf_H <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 1 - 2.csv")
+dat_Conf_H <- read.csv("/Users/shruthishekar/Documents/GitHub/LLM-MedQA/3) Organized Experiment Data/Experiment 1 - 2.csv")
+
 dat_Conf_H = dat_Conf_H[dat_Conf_H$Response.Source == "High Accuracy AI", ] #Limit dataset to responses for this evaluation question type
 
 str(dat_Conf_H)
@@ -38,3 +39,4 @@ summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
 icc(mod)
+

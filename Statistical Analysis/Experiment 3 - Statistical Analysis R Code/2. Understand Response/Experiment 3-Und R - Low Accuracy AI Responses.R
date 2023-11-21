@@ -32,7 +32,7 @@ anova(mod, mod_null)
 
 # pairwise comparisons among conditions
 Means <- emmeans(mod, spec = ~ Random.Header)
-$contr <- contrast(Means, method="pairwise", adjust="holm")
+contr <- contrast(Means, method="pairwise", adjust="holm")
 summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)

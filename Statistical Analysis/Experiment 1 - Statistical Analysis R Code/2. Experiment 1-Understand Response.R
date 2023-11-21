@@ -17,7 +17,7 @@ set.seed(42)
 # Prompt: "I understand the response to this health question."
 
 # read in data and check
-dat_und_r_1 <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 1.csv")
+dat_und_r_1 <- read.csv("/Users/shruthishekar/Documents/GitHub/LLM-MedQA/3) Organized Experiment Data/Experiment 1.csv")
 dat_und_r_1 = dat_und_r_1[dat_und_r_1$Question.Type == "Und_R", ] #Limit dataset to responses for this evaluation question type
 
 str(dat_und_r_1)

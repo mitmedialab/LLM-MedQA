@@ -17,7 +17,7 @@ set.seed(42)
 # Prompt: "Do you think this response was given by a doctor or AI text generator?"
 
 # read in data and check
-dat_AI_or_Human <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 1 - 2.csv")
+dat_AI_or_Human <- read.csv("/Users/shruthishekar/Documents/GitHub/LLM-MedQA/3) Organized Experiment Data/Experiment 1 - 2.csv")
 
 str(dat_AI_or_Human)
 head(dat_AI_or_Human)

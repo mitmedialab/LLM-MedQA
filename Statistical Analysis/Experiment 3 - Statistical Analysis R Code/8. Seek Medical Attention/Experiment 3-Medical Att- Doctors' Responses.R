@@ -37,3 +37,4 @@ summary(contr, infer=TRUE)
 
 # calculate intra-class correlation (ICC)
 icc(mod) 
+

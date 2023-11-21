@@ -18,7 +18,8 @@ set.seed(42)
 # Medical Response Source: Doctors' Responses
 
 # read in data and check
-dat_Conf_D <- read.csv("/Users/shruthishekar/Desktop/Organized Experiment Data/Experiment 1 - 2.csv")
+dat_Conf_D <- read.csv("/Users/shruthishekar/Documents/GitHub/LLM-MedQA/3) Organized Experiment Data/Experiment 1 - 2.csv")
+
 dat_Conf_D = dat_Conf_D[dat_Conf_D$Response.Source == "Doctor", ] #Limit dataset to responses for this evaluation question type
 
 str(dat_Conf_D)
