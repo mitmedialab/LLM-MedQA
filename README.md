@@ -24,6 +24,9 @@ This paper presents a comprehensive analysis of how AI-generated medical respons
 -  Organized Experiment Data
     - The following folder contains an organized, reformatted dataset for each of the three experiments. The raw data was organized with response scores from each participant, with clear indication of the Evaluation Metric being measured, the source of the Medical Response provided, the score given by the participant, and other relevant details.
 
+- Expert Evaluation & Dataset Generation
+    - The following folder contains files with the original 150 medical questions and answers (both AI-generated and provided by Doctors) and their respective Accuracy, Strength, and Completeness scores that were given by our medical expert evaluators across the Blind and Non-Blind evaluations.
+     
 - Python Files:
     - Contains the python files utilized to (1) clean the raw data, (2) organize the cleaned data, and (3) graph and analyze the organized data.
     - Contains the python file utilized to complete an analysis of partcipant demographics
